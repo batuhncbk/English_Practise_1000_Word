@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: #292929;
+    height: 100vh;
+    margin: 0;
+    color: #fff;
+    margin-left: 40px;
+}
+.container {
+    display:flex;
+    flex-wrap: wrap;
+}
+.textBorder {
+    text-align: center;
+    padding-top: 10px;
+    background-color: #444451;
+    height: 30px;
+    width: 100px;
+    margin: 10px;
+    border-radius: 5px;
+}
+.textBorder.selected {
+    background-color: #f6eb6f;
+    color: #292929;
+}
+.textBorder:hover {
+    background-color: #ffffff8a;
+} 

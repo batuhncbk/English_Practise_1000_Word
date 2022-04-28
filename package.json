@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "start": "node scraping.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.0",
+    "browserify": "^17.0.0",
+    "cheerio": "^1.0.0-rc.10",
+    "edit-json-file": "^1.7.0",
+    "fs": "^0.0.1-security",
+    "json-2-csv": "^3.17.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "name": "english_practise_app",
+  "version": "1.0.0",
+  "main": "script.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

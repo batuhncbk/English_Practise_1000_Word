@@ -1,0 +1,5900 @@
+[
+    {
+        "id": 0,
+        "word": "a",
+        "translate": "bir",
+        "learned": false
+    },
+    {
+        "id": 1,
+        "word": "ability",
+        "translate": "kabiliyet, yetenek, beceri, güç, iktidar",
+        "learned": false
+    },
+    {
+        "id": 2,
+        "word": "able",
+        "translate": "yapabilmek, yapabilen",
+        "learned": false
+    },
+    {
+        "id": 3,
+        "word": "about",
+        "translate": "hakkında, ilgili, konusunda",
+        "learned": false
+    },
+    {
+        "id": 4,
+        "word": "above",
+        "translate": "yukarıda",
+        "learned": false
+    },
+    {
+        "id": 5,
+        "word": "accept",
+        "translate": "kabul etmek",
+        "learned": false
+    },
+    {
+        "id": 6,
+        "word": "according",
+        "translate": "göre",
+        "learned": false
+    },
+    {
+        "id": 7,
+        "word": "account",
+        "translate": "Hesap, açıklama, banka hesabı",
+        "learned": false
+    },
+    {
+        "id": 8,
+        "word": "across",
+        "translate": "karşısında",
+        "learned": false
+    },
+    {
+        "id": 9,
+        "word": "act",
+        "translate": "hareket, eylem, davranış",
+        "learned": false
+    },
+    {
+        "id": 10,
+        "word": "action",
+        "translate": "eylem, etki, hareket",
+        "learned": false
+    },
+    {
+        "id": 11,
+        "word": "activity",
+        "translate": "faaliyet, etkinlik",
+        "learned": false
+    },
+    {
+        "id": 12,
+        "word": "actually",
+        "translate": "aslında, gerçekte",
+        "learned": false
+    },
+    {
+        "id": 13,
+        "word": "add",
+        "translate": "eklemek, katmak, ilave etmek, toplamak, katmak",
+        "learned": false
+    },
+    {
+        "id": 14,
+        "word": "address",
+        "translate": "adres",
+        "learned": false
+    },
+    {
+        "id": 15,
+        "word": "administration",
+        "translate": "yönetim, idare",
+        "learned": false
+    },
+    {
+        "id": 16,
+        "word": "admit",
+        "translate": "Kabul etmek",
+        "learned": false
+    },
+    {
+        "id": 17,
+        "word": "adult",
+        "translate": "yetişkin, erişkin",
+        "learned": false
+    },
+    {
+        "id": 18,
+        "word": "affect",
+        "translate": "etkilemek, etki etmek",
+        "learned": false
+    },
+    {
+        "id": 19,
+        "word": "after",
+        "translate": "sonra, ardından, daha sonra",
+        "learned": false
+    },
+    {
+        "id": 20,
+        "word": "again",
+        "translate": "tekrar, yeniden",
+        "learned": false
+    },
+    {
+        "id": 21,
+        "word": "against",
+        "translate": "karşısında, karşı",
+        "learned": false
+    },
+    {
+        "id": 22,
+        "word": "age",
+        "translate": "yaş",
+        "learned": false
+    },
+    {
+        "id": 23,
+        "word": "agency",
+        "translate": "Ajans, acenta",
+        "learned": false
+    },
+    {
+        "id": 24,
+        "word": "agent",
+        "translate": "Ajan, temsilci, etken",
+        "learned": false
+    },
+    {
+        "id": 25,
+        "word": "ago",
+        "translate": "önce, evvel",
+        "learned": false
+    },
+    {
+        "id": 26,
+        "word": "agree",
+        "translate": "anlaşmak, kabul etmek",
+        "learned": false
+    },
+    {
+        "id": 27,
+        "word": "agreement",
+        "translate": "Anlaşma, sözleşme",
+        "learned": false
+    },
+    {
+        "id": 28,
+        "word": "ahead",
+        "translate": "Önde, ileri",
+        "learned": false
+    },
+    {
+        "id": 29,
+        "word": "air",
+        "translate": "hava",
+        "learned": false
+    },
+    {
+        "id": 30,
+        "word": "all",
+        "translate": "herşey, tüm, bütün",
+        "learned": false
+    },
+    {
+        "id": 31,
+        "word": "allow",
+        "translate": "izin vermek",
+        "learned": false
+    },
+    {
+        "id": 32,
+        "word": "almost",
+        "translate": "neredeyse, hemen hemen",
+        "learned": false
+    },
+    {
+        "id": 33,
+        "word": "alone",
+        "translate": "yalnız, tek başına",
+        "learned": false
+    },
+    {
+        "id": 34,
+        "word": "along",
+        "translate": "boyunca, yanı sıra",
+        "learned": false
+    },
+    {
+        "id": 35,
+        "word": "already",
+        "translate": "zaten",
+        "learned": false
+    },
+    {
+        "id": 36,
+        "word": "also",
+        "translate": "ayrıca, hem de",
+        "learned": false
+    },
+    {
+        "id": 37,
+        "word": "although",
+        "translate": "rağmen, karşın , gerçi",
+        "learned": false
+    },
+    {
+        "id": 38,
+        "word": "always",
+        "translate": "her zaman, daima",
+        "learned": false
+    },
+    {
+        "id": 39,
+        "word": "American",
+        "translate": "Amerikan",
+        "learned": false
+    },
+    {
+        "id": 40,
+        "word": "among",
+        "translate": "arasında, içinde",
+        "learned": false
+    },
+    {
+        "id": 41,
+        "word": "amount",
+        "translate": "miktar, tutar, değer",
+        "learned": false
+    },
+    {
+        "id": 42,
+        "word": "analysis",
+        "translate": "analiz, çözümleme",
+        "learned": false
+    },
+    {
+        "id": 43,
+        "word": "and",
+        "translate": "ve, ile",
+        "learned": false
+    },
+    {
+        "id": 44,
+        "word": "animal",
+        "translate": "hayvan",
+        "learned": false
+    },
+    {
+        "id": 45,
+        "word": "another",
+        "translate": "bir diğeri, başka, farklı, ayrı",
+        "learned": false
+    },
+    {
+        "id": 46,
+        "word": "answer",
+        "translate": "cevap, yanıt",
+        "learned": false
+    },
+    {
+        "id": 47,
+        "word": "any",
+        "translate": "herhangi, hiç, her",
+        "learned": false
+    },
+    {
+        "id": 48,
+        "word": "anyone",
+        "translate": "kimse, herhangi biri, hiç kimse",
+        "learned": false
+    },
+    {
+        "id": 49,
+        "word": "anything",
+        "translate": "bir şeyi herhangi bir şey, hiçbir şey",
+        "learned": false
+    },
+    {
+        "id": 50,
+        "word": "appear",
+        "translate": "görünmek, gözükmek",
+        "learned": false
+    },
+    {
+        "id": 51,
+        "word": "apply",
+        "translate": "uygulamak, başvurmak",
+        "learned": false
+    },
+    {
+        "id": 52,
+        "word": "approach",
+        "translate": "yaklaşım, yaklaşma",
+        "learned": false
+    },
+    {
+        "id": 53,
+        "word": "area",
+        "translate": "alan, bölge",
+        "learned": false
+    },
+    {
+        "id": 54,
+        "word": "argue",
+        "translate": "tartışmak",
+        "learned": false
+    },
+    {
+        "id": 55,
+        "word": "arm",
+        "translate": "kol, silah, dal",
+        "learned": false
+    },
+    {
+        "id": 56,
+        "word": "around",
+        "translate": "etrafında",
+        "learned": false
+    },
+    {
+        "id": 57,
+        "word": "arrive",
+        "translate": "varmak, ulaşmak",
+        "learned": false
+    },
+    {
+        "id": 58,
+        "word": "art",
+        "translate": "sanat",
+        "learned": false
+    },
+    {
+        "id": 59,
+        "word": "article",
+        "translate": "makale, madde, yazı",
+        "learned": false
+    },
+    {
+        "id": 60,
+        "word": "artist",
+        "translate": "sanatçı",
+        "learned": false
+    },
+    {
+        "id": 61,
+        "word": "as",
+        "translate": "gibi, olarak",
+        "learned": false
+    },
+    {
+        "id": 62,
+        "word": "ask",
+        "translate": "sormak, istemek",
+        "learned": false
+    },
+    {
+        "id": 63,
+        "word": "assume",
+        "translate": "varsaymak, farzetmek",
+        "learned": false
+    },
+    {
+        "id": 64,
+        "word": "attack",
+        "translate": "saldırı, atak",
+        "learned": false
+    },
+    {
+        "id": 65,
+        "word": "attention",
+        "translate": "dikkat",
+        "learned": false
+    },
+    {
+        "id": 66,
+        "word": "attorney",
+        "translate": "avukat, vekil",
+        "learned": false
+    },
+    {
+        "id": 67,
+        "word": "audience",
+        "translate": "seyirci, izleyici",
+        "learned": false
+    },
+    {
+        "id": 68,
+        "word": "author",
+        "translate": "yazar",
+        "learned": false
+    },
+    {
+        "id": 69,
+        "word": "authority",
+        "translate": "yetki, otorite",
+        "learned": false
+    },
+    {
+        "id": 70,
+        "word": "available",
+        "translate": "müsait, mevcut, geçerli",
+        "learned": false
+    },
+    {
+        "id": 71,
+        "word": "avoid",
+        "translate": "önlemek, kaçınmak",
+        "learned": false
+    },
+    {
+        "id": 72,
+        "word": "away",
+        "translate": "uzak, uzakta",
+        "learned": false
+    },
+    {
+        "id": 73,
+        "word": "baby",
+        "translate": "bebek",
+        "learned": false
+    },
+    {
+        "id": 74,
+        "word": "back",
+        "translate": "geri",
+        "learned": false
+    },
+    {
+        "id": 75,
+        "word": "bad",
+        "translate": "kötü",
+        "learned": false
+    },
+    {
+        "id": 76,
+        "word": "bag",
+        "translate": "sırt çantası",
+        "learned": false
+    },
+    {
+        "id": 77,
+        "word": "ball",
+        "translate": "top",
+        "learned": false
+    },
+    {
+        "id": 78,
+        "word": "bank",
+        "translate": "banka",
+        "learned": false
+    },
+    {
+        "id": 79,
+        "word": "bar",
+        "translate": "bar",
+        "learned": false
+    },
+    {
+        "id": 80,
+        "word": "base",
+        "translate": "üs, temel, baz",
+        "learned": false
+    },
+    {
+        "id": 81,
+        "word": "be",
+        "translate": "olmak, var olmak",
+        "learned": false
+    },
+    {
+        "id": 82,
+        "word": "beat",
+        "translate": "dövmek, yenmek",
+        "learned": false
+    },
+    {
+        "id": 83,
+        "word": "beautiful",
+        "translate": "güzel",
+        "learned": false
+    },
+    {
+        "id": 84,
+        "word": "because",
+        "translate": "çünkü",
+        "learned": false
+    },
+    {
+        "id": 85,
+        "word": "become",
+        "translate": "olmak, haline gelmek",
+        "learned": false
+    },
+    {
+        "id": 86,
+        "word": "bed",
+        "translate": "yatak",
+        "learned": false
+    },
+    {
+        "id": 87,
+        "word": "before",
+        "translate": "önce",
+        "learned": false
+    },
+    {
+        "id": 88,
+        "word": "begin",
+        "translate": "başlamak, başlatmak",
+        "learned": false
+    },
+    {
+        "id": 89,
+        "word": "behavior",
+        "translate": "davranış, tutum, hareket",
+        "learned": false
+    },
+    {
+        "id": 90,
+        "word": "behind",
+        "translate": "arkasında, gerisinde",
+        "learned": false
+    },
+    {
+        "id": 91,
+        "word": "believe",
+        "translate": "inanmak, inancı olmak",
+        "learned": false
+    },
+    {
+        "id": 92,
+        "word": "benefit",
+        "translate": "yarar, fayda",
+        "learned": false
+    },
+    {
+        "id": 93,
+        "word": "best",
+        "translate": "en iyi, en iyisi, en",
+        "learned": false
+    },
+    {
+        "id": 94,
+        "word": "better",
+        "translate": "daha iyi, daha güzel, daha iyi şekilde",
+        "learned": false
+    },
+    {
+        "id": 95,
+        "word": "between",
+        "translate": "arasında, aralarında",
+        "learned": false
+    },
+    {
+        "id": 96,
+        "word": "beyond",
+        "translate": "ötesinde, öte",
+        "learned": false
+    },
+    {
+        "id": 97,
+        "word": "big",
+        "translate": "büyük",
+        "learned": false
+    },
+    {
+        "id": 98,
+        "word": "bill",
+        "translate": "Fatura",
+        "learned": false
+    },
+    {
+        "id": 99,
+        "word": "billion",
+        "translate": "milyar",
+        "learned": false
+    },
+    {
+        "id": 100,
+        "word": "black",
+        "translate": "siyah",
+        "learned": false
+    },
+    {
+        "id": 101,
+        "word": "blood",
+        "translate": "kan",
+        "learned": false
+    },
+    {
+        "id": 102,
+        "word": "blue",
+        "translate": "mavi",
+        "learned": false
+    },
+    {
+        "id": 103,
+        "word": "board",
+        "translate": "yazı tahtası",
+        "learned": false
+    },
+    {
+        "id": 104,
+        "word": "body",
+        "translate": "vücut",
+        "learned": false
+    },
+    {
+        "id": 105,
+        "word": "book",
+        "translate": "kitap",
+        "learned": false
+    },
+    {
+        "id": 106,
+        "word": "born",
+        "translate": "doğmuş, doğum",
+        "learned": false
+    },
+    {
+        "id": 107,
+        "word": "both",
+        "translate": "her ikisi de, ikisi de",
+        "learned": false
+    },
+    {
+        "id": 108,
+        "word": "box",
+        "translate": "kutu",
+        "learned": false
+    },
+    {
+        "id": 109,
+        "word": "boy",
+        "translate": "erkek çocuk",
+        "learned": false
+    },
+    {
+        "id": 110,
+        "word": "break",
+        "translate": "kırılma",
+        "learned": false
+    },
+    {
+        "id": 111,
+        "word": "bring",
+        "translate": "getirmek",
+        "learned": false
+    },
+    {
+        "id": 112,
+        "word": "brother",
+        "translate": "erkek kardeş",
+        "learned": false
+    },
+    {
+        "id": 113,
+        "word": "budget",
+        "translate": "bütçe",
+        "learned": false
+    },
+    {
+        "id": 114,
+        "word": "build",
+        "translate": "inşa etmek",
+        "learned": false
+    },
+    {
+        "id": 115,
+        "word": "building",
+        "translate": "bina",
+        "learned": false
+    },
+    {
+        "id": 116,
+        "word": "business",
+        "translate": "iş",
+        "learned": false
+    },
+    {
+        "id": 117,
+        "word": "but",
+        "translate": "fakat, ama, lakin",
+        "learned": false
+    },
+    {
+        "id": 118,
+        "word": "buy",
+        "translate": "satın almak",
+        "learned": false
+    },
+    {
+        "id": 119,
+        "word": "by",
+        "translate": "tarafından, ile, göre, vasıtasıyla",
+        "learned": false
+    },
+    {
+        "id": 120,
+        "word": "call",
+        "translate": "aramak",
+        "learned": false
+    },
+    {
+        "id": 121,
+        "word": "camera",
+        "translate": "kamera",
+        "learned": false
+    },
+    {
+        "id": 122,
+        "word": "campaign",
+        "translate": "kampanya",
+        "learned": false
+    },
+    {
+        "id": 123,
+        "word": "can",
+        "translate": "yapabilmek",
+        "learned": false
+    },
+    {
+        "id": 124,
+        "word": "cancer",
+        "translate": "kanser",
+        "learned": false
+    },
+    {
+        "id": 125,
+        "word": "candidate",
+        "translate": "aday",
+        "learned": false
+    },
+    {
+        "id": 126,
+        "word": "capital",
+        "translate": "Başkent",
+        "learned": false
+    },
+    {
+        "id": 127,
+        "word": "car",
+        "translate": "Araba",
+        "learned": false
+    },
+    {
+        "id": 128,
+        "word": "card",
+        "translate": "Kart",
+        "learned": false
+    },
+    {
+        "id": 129,
+        "word": "care",
+        "translate": "bakım",
+        "learned": false
+    },
+    {
+        "id": 130,
+        "word": "career",
+        "translate": "kariyer",
+        "learned": false
+    },
+    {
+        "id": 131,
+        "word": "carry",
+        "translate": "Taşımak",
+        "learned": false
+    },
+    {
+        "id": 132,
+        "word": "case",
+        "translate": "dava",
+        "learned": false
+    },
+    {
+        "id": 133,
+        "word": "catch",
+        "translate": "yakalamak",
+        "learned": false
+    },
+    {
+        "id": 134,
+        "word": "cause",
+        "translate": "sebep olmak",
+        "learned": false
+    },
+    {
+        "id": 135,
+        "word": "cell",
+        "translate": "hücre",
+        "learned": false
+    },
+    {
+        "id": 136,
+        "word": "center",
+        "translate": "merkez",
+        "learned": false
+    },
+    {
+        "id": 137,
+        "word": "central",
+        "translate": "merkezi",
+        "learned": false
+    },
+    {
+        "id": 138,
+        "word": "century",
+        "translate": "Yüzyıl",
+        "learned": false
+    },
+    {
+        "id": 139,
+        "word": "certain",
+        "translate": "Belli",
+        "learned": false
+    },
+    {
+        "id": 140,
+        "word": "certainly",
+        "translate": "kesinlikle",
+        "learned": false
+    },
+    {
+        "id": 141,
+        "word": "chair",
+        "translate": "sandalye",
+        "learned": false
+    },
+    {
+        "id": 142,
+        "word": "challenge",
+        "translate": "meydan okuma",
+        "learned": false
+    },
+    {
+        "id": 143,
+        "word": "chance",
+        "translate": "Şans",
+        "learned": false
+    },
+    {
+        "id": 144,
+        "word": "change",
+        "translate": "değişiklik",
+        "learned": false
+    },
+    {
+        "id": 145,
+        "word": "character",
+        "translate": "karakter",
+        "learned": false
+    },
+    {
+        "id": 146,
+        "word": "charge",
+        "translate": "şarj etmek",
+        "learned": false
+    },
+    {
+        "id": 147,
+        "word": "check",
+        "translate": "Kontrol",
+        "learned": false
+    },
+    {
+        "id": 148,
+        "word": "child",
+        "translate": "çocuk",
+        "learned": false
+    },
+    {
+        "id": 149,
+        "word": "choice",
+        "translate": "seçim",
+        "learned": false
+    },
+    {
+        "id": 150,
+        "word": "choose",
+        "translate": "seçmek",
+        "learned": false
+    },
+    {
+        "id": 151,
+        "word": "church",
+        "translate": "kilise",
+        "learned": false
+    },
+    {
+        "id": 152,
+        "word": "citizen",
+        "translate": "vatandaş",
+        "learned": false
+    },
+    {
+        "id": 153,
+        "word": "city",
+        "translate": "şehir",
+        "learned": false
+    },
+    {
+        "id": 154,
+        "word": "civil",
+        "translate": "sivil",
+        "learned": false
+    },
+    {
+        "id": 155,
+        "word": "claim",
+        "translate": "iddia",
+        "learned": false
+    },
+    {
+        "id": 156,
+        "word": "class",
+        "translate": "sınıf",
+        "learned": false
+    },
+    {
+        "id": 157,
+        "word": "clear",
+        "translate": "açık",
+        "learned": false
+    },
+    {
+        "id": 158,
+        "word": "clearly",
+        "translate": "Açıkça",
+        "learned": false
+    },
+    {
+        "id": 159,
+        "word": "close",
+        "translate": "kapat",
+        "learned": false
+    },
+    {
+        "id": 160,
+        "word": "coach",
+        "translate": "Koç",
+        "learned": false
+    },
+    {
+        "id": 161,
+        "word": "cold",
+        "translate": "soğuk",
+        "learned": false
+    },
+    {
+        "id": 162,
+        "word": "collection",
+        "translate": "Toplamak",
+        "learned": false
+    },
+    {
+        "id": 163,
+        "word": "college",
+        "translate": "kolej",
+        "learned": false
+    },
+    {
+        "id": 164,
+        "word": "color",
+        "translate": "renk",
+        "learned": false
+    },
+    {
+        "id": 165,
+        "word": "come",
+        "translate": "gelmek",
+        "learned": false
+    },
+    {
+        "id": 166,
+        "word": "commercial",
+        "translate": "ticari",
+        "learned": false
+    },
+    {
+        "id": 167,
+        "word": "common",
+        "translate": "ortak",
+        "learned": false
+    },
+    {
+        "id": 168,
+        "word": "community",
+        "translate": "Topluluk",
+        "learned": false
+    },
+    {
+        "id": 169,
+        "word": "company",
+        "translate": "Şirket",
+        "learned": false
+    },
+    {
+        "id": 170,
+        "word": "compare",
+        "translate": "karşılaştırmak",
+        "learned": false
+    },
+    {
+        "id": 171,
+        "word": "computer",
+        "translate": "bilgisayar",
+        "learned": false
+    },
+    {
+        "id": 172,
+        "word": "concern",
+        "translate": "ilgilendirmek",
+        "learned": false
+    },
+    {
+        "id": 173,
+        "word": "condition",
+        "translate": "şart",
+        "learned": false
+    },
+    {
+        "id": 174,
+        "word": "conference",
+        "translate": "konferans",
+        "learned": false
+    },
+    {
+        "id": 175,
+        "word": "Congress",
+        "translate": "Kongre",
+        "learned": false
+    },
+    {
+        "id": 176,
+        "word": "consider",
+        "translate": "göz önüne almak",
+        "learned": false
+    },
+    {
+        "id": 177,
+        "word": "consumer",
+        "translate": "tüketici",
+        "learned": false
+    },
+    {
+        "id": 178,
+        "word": "contain",
+        "translate": "içermek",
+        "learned": false
+    },
+    {
+        "id": 179,
+        "word": "continue",
+        "translate": "devam et",
+        "learned": false
+    },
+    {
+        "id": 180,
+        "word": "control",
+        "translate": "kontrol",
+        "learned": false
+    },
+    {
+        "id": 181,
+        "word": "cost",
+        "translate": "maliyet",
+        "learned": false
+    },
+    {
+        "id": 182,
+        "word": "could",
+        "translate": "Yapabilir",
+        "learned": false
+    },
+    {
+        "id": 183,
+        "word": "country",
+        "translate": "Ülke",
+        "learned": false
+    },
+    {
+        "id": 184,
+        "word": "couple",
+        "translate": "çift",
+        "learned": false
+    },
+    {
+        "id": 185,
+        "word": "course",
+        "translate": "ders",
+        "learned": false
+    },
+    {
+        "id": 186,
+        "word": "court",
+        "translate": "mahkeme",
+        "learned": false
+    },
+    {
+        "id": 187,
+        "word": "cover",
+        "translate": "örtü",
+        "learned": false
+    },
+    {
+        "id": 188,
+        "word": "create",
+        "translate": "yaratmak",
+        "learned": false
+    },
+    {
+        "id": 189,
+        "word": "crime",
+        "translate": "suç",
+        "learned": false
+    },
+    {
+        "id": 190,
+        "word": "cultural",
+        "translate": "kültürel",
+        "learned": false
+    },
+    {
+        "id": 191,
+        "word": "culture",
+        "translate": "kültür",
+        "learned": false
+    },
+    {
+        "id": 192,
+        "word": "cup",
+        "translate": "fincan",
+        "learned": false
+    },
+    {
+        "id": 193,
+        "word": "current",
+        "translate": "şu andaki",
+        "learned": false
+    },
+    {
+        "id": 194,
+        "word": "customer",
+        "translate": "müşteri",
+        "learned": false
+    },
+    {
+        "id": 195,
+        "word": "cut",
+        "translate": "Kesmek",
+        "learned": false
+    },
+    {
+        "id": 196,
+        "word": "dark",
+        "translate": "Karanlık",
+        "learned": false
+    },
+    {
+        "id": 197,
+        "word": "data",
+        "translate": "veri",
+        "learned": false
+    },
+    {
+        "id": 198,
+        "word": "daughter",
+        "translate": "kız evlat",
+        "learned": false
+    },
+    {
+        "id": 199,
+        "word": "day",
+        "translate": "gün",
+        "learned": false
+    },
+    {
+        "id": 200,
+        "word": "dead",
+        "translate": "Ölü",
+        "learned": false
+    },
+    {
+        "id": 201,
+        "word": "deal",
+        "translate": "Anlaşmak",
+        "learned": false
+    },
+    {
+        "id": 202,
+        "word": "death",
+        "translate": "ölüm",
+        "learned": false
+    },
+    {
+        "id": 203,
+        "word": "debate",
+        "translate": "Tartışma",
+        "learned": false
+    },
+    {
+        "id": 204,
+        "word": "decade",
+        "translate": "on yıl",
+        "learned": false
+    },
+    {
+        "id": 205,
+        "word": "decide",
+        "translate": "karar vermek",
+        "learned": false
+    },
+    {
+        "id": 206,
+        "word": "decision",
+        "translate": "karar",
+        "learned": false
+    },
+    {
+        "id": 207,
+        "word": "deep",
+        "translate": "derin",
+        "learned": false
+    },
+    {
+        "id": 208,
+        "word": "defense",
+        "translate": "savunma",
+        "learned": false
+    },
+    {
+        "id": 209,
+        "word": "degree",
+        "translate": "derece",
+        "learned": false
+    },
+    {
+        "id": 210,
+        "word": "Democrat",
+        "translate": "Demokrat",
+        "learned": false
+    },
+    {
+        "id": 211,
+        "word": "democratic",
+        "translate": "demokratik",
+        "learned": false
+    },
+    {
+        "id": 212,
+        "word": "describe",
+        "translate": "tanımlamak",
+        "learned": false
+    },
+    {
+        "id": 213,
+        "word": "design",
+        "translate": "tasarım",
+        "learned": false
+    },
+    {
+        "id": 214,
+        "word": "despite",
+        "translate": "rağmen",
+        "learned": false
+    },
+    {
+        "id": 215,
+        "word": "detail",
+        "translate": "ayrıntı",
+        "learned": false
+    },
+    {
+        "id": 216,
+        "word": "determine",
+        "translate": "belirlemek",
+        "learned": false
+    },
+    {
+        "id": 217,
+        "word": "develop",
+        "translate": "geliştirmek",
+        "learned": false
+    },
+    {
+        "id": 218,
+        "word": "development",
+        "translate": "Kalkınma",
+        "learned": false
+    },
+    {
+        "id": 219,
+        "word": "die",
+        "translate": "ölmek",
+        "learned": false
+    },
+    {
+        "id": 220,
+        "word": "difference",
+        "translate": "Fark",
+        "learned": false
+    },
+    {
+        "id": 221,
+        "word": "different",
+        "translate": "farklı",
+        "learned": false
+    },
+    {
+        "id": 222,
+        "word": "difficult",
+        "translate": "zor",
+        "learned": false
+    },
+    {
+        "id": 223,
+        "word": "dinner",
+        "translate": "akşam yemeği",
+        "learned": false
+    },
+    {
+        "id": 224,
+        "word": "direction",
+        "translate": "Yön",
+        "learned": false
+    },
+    {
+        "id": 225,
+        "word": "director",
+        "translate": "Yönetmen",
+        "learned": false
+    },
+    {
+        "id": 226,
+        "word": "discover",
+        "translate": "Keşfetmek",
+        "learned": false
+    },
+    {
+        "id": 227,
+        "word": "discuss",
+        "translate": "Tartışmak",
+        "learned": false
+    },
+    {
+        "id": 228,
+        "word": "discussion",
+        "translate": "tartışma",
+        "learned": false
+    },
+    {
+        "id": 229,
+        "word": "disease",
+        "translate": "Hastalık",
+        "learned": false
+    },
+    {
+        "id": 230,
+        "word": "do",
+        "translate": "yapmak",
+        "learned": false
+    },
+    {
+        "id": 231,
+        "word": "doctor",
+        "translate": "doktor",
+        "learned": false
+    },
+    {
+        "id": 232,
+        "word": "dog",
+        "translate": "köpek",
+        "learned": false
+    },
+    {
+        "id": 233,
+        "word": "door",
+        "translate": "kapı",
+        "learned": false
+    },
+    {
+        "id": 234,
+        "word": "down",
+        "translate": "aşağı",
+        "learned": false
+    },
+    {
+        "id": 235,
+        "word": "draw",
+        "translate": "Çizmek",
+        "learned": false
+    },
+    {
+        "id": 236,
+        "word": "dream",
+        "translate": "rüya",
+        "learned": false
+    },
+    {
+        "id": 237,
+        "word": "drive",
+        "translate": "Sürmek",
+        "learned": false
+    },
+    {
+        "id": 238,
+        "word": "drop",
+        "translate": "düşürmek",
+        "learned": false
+    },
+    {
+        "id": 239,
+        "word": "drug",
+        "translate": "uyuşturucu",
+        "learned": false
+    },
+    {
+        "id": 240,
+        "word": "during",
+        "translate": "sırasında",
+        "learned": false
+    },
+    {
+        "id": 241,
+        "word": "each",
+        "translate": "her",
+        "learned": false
+    },
+    {
+        "id": 242,
+        "word": "early",
+        "translate": "erken",
+        "learned": false
+    },
+    {
+        "id": 243,
+        "word": "east",
+        "translate": "doğu",
+        "learned": false
+    },
+    {
+        "id": 244,
+        "word": "easy",
+        "translate": "kolay",
+        "learned": false
+    },
+    {
+        "id": 245,
+        "word": "eat",
+        "translate": "yemek",
+        "learned": false
+    },
+    {
+        "id": 246,
+        "word": "economic",
+        "translate": "ekonomik",
+        "learned": false
+    },
+    {
+        "id": 247,
+        "word": "economy",
+        "translate": "Ekonomi",
+        "learned": false
+    },
+    {
+        "id": 248,
+        "word": "edge",
+        "translate": "Kenar",
+        "learned": false
+    },
+    {
+        "id": 249,
+        "word": "education",
+        "translate": "Eğitim",
+        "learned": false
+    },
+    {
+        "id": 250,
+        "word": "effect",
+        "translate": "Efekt",
+        "learned": false
+    },
+    {
+        "id": 251,
+        "word": "effort",
+        "translate": "çaba",
+        "learned": false
+    },
+    {
+        "id": 252,
+        "word": "eight",
+        "translate": "sekiz",
+        "learned": false
+    },
+    {
+        "id": 253,
+        "word": "either",
+        "translate": "ya",
+        "learned": false
+    },
+    {
+        "id": 254,
+        "word": "election",
+        "translate": "seçim",
+        "learned": false
+    },
+    {
+        "id": 255,
+        "word": "else",
+        "translate": "başka",
+        "learned": false
+    },
+    {
+        "id": 256,
+        "word": "employee",
+        "translate": "çalışan",
+        "learned": false
+    },
+    {
+        "id": 257,
+        "word": "end",
+        "translate": "son",
+        "learned": false
+    },
+    {
+        "id": 258,
+        "word": "energy",
+        "translate": "enerji",
+        "learned": false
+    },
+    {
+        "id": 259,
+        "word": "enjoy",
+        "translate": "keyif almak",
+        "learned": false
+    },
+    {
+        "id": 260,
+        "word": "enough",
+        "translate": "yeterli",
+        "learned": false
+    },
+    {
+        "id": 261,
+        "word": "enter",
+        "translate": "girmek",
+        "learned": false
+    },
+    {
+        "id": 262,
+        "word": "entire",
+        "translate": "tamamı",
+        "learned": false
+    },
+    {
+        "id": 263,
+        "word": "environment",
+        "translate": "Çevre",
+        "learned": false
+    },
+    {
+        "id": 264,
+        "word": "environmental",
+        "translate": "Çevreci",
+        "learned": false
+    },
+    {
+        "id": 265,
+        "word": "especially",
+        "translate": "özellikle",
+        "learned": false
+    },
+    {
+        "id": 266,
+        "word": "establish",
+        "translate": "kurmak",
+        "learned": false
+    },
+    {
+        "id": 267,
+        "word": "evening",
+        "translate": "akşam",
+        "learned": false
+    },
+    {
+        "id": 268,
+        "word": "event",
+        "translate": "olay",
+        "learned": false
+    },
+    {
+        "id": 269,
+        "word": "ever",
+        "translate": "Hiç",
+        "learned": false
+    },
+    {
+        "id": 270,
+        "word": "every",
+        "translate": "her",
+        "learned": false
+    },
+    {
+        "id": 271,
+        "word": "everybody",
+        "translate": "Herkes",
+        "learned": false
+    },
+    {
+        "id": 272,
+        "word": "everyone",
+        "translate": "herkes",
+        "learned": false
+    },
+    {
+        "id": 273,
+        "word": "everything",
+        "translate": "her şey",
+        "learned": false
+    },
+    {
+        "id": 274,
+        "word": "evidence",
+        "translate": "delil",
+        "learned": false
+    },
+    {
+        "id": 275,
+        "word": "exactly",
+        "translate": "kesinlikle",
+        "learned": false
+    },
+    {
+        "id": 276,
+        "word": "example",
+        "translate": "örnek",
+        "learned": false
+    },
+    {
+        "id": 277,
+        "word": "executive",
+        "translate": "yönetici",
+        "learned": false
+    },
+    {
+        "id": 278,
+        "word": "exist",
+        "translate": "var olmak",
+        "learned": false
+    },
+    {
+        "id": 279,
+        "word": "expect",
+        "translate": "ummak",
+        "learned": false
+    },
+    {
+        "id": 280,
+        "word": "experience",
+        "translate": "deneyim",
+        "learned": false
+    },
+    {
+        "id": 281,
+        "word": "expert",
+        "translate": "uzman",
+        "learned": false
+    },
+    {
+        "id": 282,
+        "word": "explain",
+        "translate": "açıklamak",
+        "learned": false
+    },
+    {
+        "id": 283,
+        "word": "eye",
+        "translate": "göz",
+        "learned": false
+    },
+    {
+        "id": 284,
+        "word": "face",
+        "translate": "Yüz",
+        "learned": false
+    },
+    {
+        "id": 285,
+        "word": "fact",
+        "translate": "Gerçek",
+        "learned": false
+    },
+    {
+        "id": 286,
+        "word": "factor",
+        "translate": "Faktör",
+        "learned": false
+    },
+    {
+        "id": 287,
+        "word": "fail",
+        "translate": "başarısız",
+        "learned": false
+    },
+    {
+        "id": 288,
+        "word": "fall",
+        "translate": "düşmek",
+        "learned": false
+    },
+    {
+        "id": 289,
+        "word": "family",
+        "translate": "aile",
+        "learned": false
+    },
+    {
+        "id": 290,
+        "word": "far",
+        "translate": "Uzak",
+        "learned": false
+    },
+    {
+        "id": 291,
+        "word": "fast",
+        "translate": "hızlı",
+        "learned": false
+    },
+    {
+        "id": 292,
+        "word": "father",
+        "translate": "Baba",
+        "learned": false
+    },
+    {
+        "id": 293,
+        "word": "fear",
+        "translate": "korku",
+        "learned": false
+    },
+    {
+        "id": 294,
+        "word": "federal",
+        "translate": "federal",
+        "learned": false
+    },
+    {
+        "id": 295,
+        "word": "feel",
+        "translate": "Hissetmek",
+        "learned": false
+    },
+    {
+        "id": 296,
+        "word": "feeling",
+        "translate": "duygu",
+        "learned": false
+    },
+    {
+        "id": 297,
+        "word": "few",
+        "translate": "az",
+        "learned": false
+    },
+    {
+        "id": 298,
+        "word": "field",
+        "translate": "alan",
+        "learned": false
+    },
+    {
+        "id": 299,
+        "word": "fight",
+        "translate": "kavga",
+        "learned": false
+    },
+    {
+        "id": 300,
+        "word": "figure",
+        "translate": "şekil",
+        "learned": false
+    },
+    {
+        "id": 301,
+        "word": "fill",
+        "translate": "Doldurmak",
+        "learned": false
+    },
+    {
+        "id": 302,
+        "word": "film",
+        "translate": "film",
+        "learned": false
+    },
+    {
+        "id": 303,
+        "word": "final",
+        "translate": "Nihai",
+        "learned": false
+    },
+    {
+        "id": 304,
+        "word": "finally",
+        "translate": "en sonunda",
+        "learned": false
+    },
+    {
+        "id": 305,
+        "word": "financial",
+        "translate": "Mali",
+        "learned": false
+    },
+    {
+        "id": 306,
+        "word": "find",
+        "translate": "Bulmak",
+        "learned": false
+    },
+    {
+        "id": 307,
+        "word": "fine",
+        "translate": "Güzel",
+        "learned": false
+    },
+    {
+        "id": 308,
+        "word": "finger",
+        "translate": "parmak",
+        "learned": false
+    },
+    {
+        "id": 309,
+        "word": "finish",
+        "translate": "bitiş",
+        "learned": false
+    },
+    {
+        "id": 310,
+        "word": "fire",
+        "translate": "ateş",
+        "learned": false
+    },
+    {
+        "id": 311,
+        "word": "firm",
+        "translate": "firma",
+        "learned": false
+    },
+    {
+        "id": 312,
+        "word": "first",
+        "translate": "ilk",
+        "learned": false
+    },
+    {
+        "id": 313,
+        "word": "fish",
+        "translate": "balık",
+        "learned": false
+    },
+    {
+        "id": 314,
+        "word": "five",
+        "translate": "beş",
+        "learned": false
+    },
+    {
+        "id": 315,
+        "word": "floor",
+        "translate": "Zemin",
+        "learned": false
+    },
+    {
+        "id": 316,
+        "word": "fly",
+        "translate": "uçmak",
+        "learned": false
+    },
+    {
+        "id": 317,
+        "word": "focus",
+        "translate": "Odaklanmak",
+        "learned": false
+    },
+    {
+        "id": 318,
+        "word": "follow",
+        "translate": "Takip etmek",
+        "learned": false
+    },
+    {
+        "id": 319,
+        "word": "food",
+        "translate": "Gıda",
+        "learned": false
+    },
+    {
+        "id": 320,
+        "word": "foot",
+        "translate": "ayak",
+        "learned": false
+    },
+    {
+        "id": 321,
+        "word": "for",
+        "translate": "için",
+        "learned": false
+    },
+    {
+        "id": 322,
+        "word": "force",
+        "translate": "Kuvvet",
+        "learned": false
+    },
+    {
+        "id": 323,
+        "word": "foreign",
+        "translate": "yabancı",
+        "learned": false
+    },
+    {
+        "id": 324,
+        "word": "forget",
+        "translate": "unutmak",
+        "learned": false
+    },
+    {
+        "id": 325,
+        "word": "form",
+        "translate": "form",
+        "learned": false
+    },
+    {
+        "id": 326,
+        "word": "former",
+        "translate": "eski",
+        "learned": false
+    },
+    {
+        "id": 327,
+        "word": "forward",
+        "translate": "Ileri",
+        "learned": false
+    },
+    {
+        "id": 328,
+        "word": "four",
+        "translate": "dört",
+        "learned": false
+    },
+    {
+        "id": 329,
+        "word": "free",
+        "translate": "ücretsiz",
+        "learned": false
+    },
+    {
+        "id": 330,
+        "word": "friend",
+        "translate": "arkadaş",
+        "learned": false
+    },
+    {
+        "id": 331,
+        "word": "front",
+        "translate": "ön",
+        "learned": false
+    },
+    {
+        "id": 332,
+        "word": "full",
+        "translate": "tam",
+        "learned": false
+    },
+    {
+        "id": 333,
+        "word": "fund",
+        "translate": "fon, sermaye",
+        "learned": false
+    },
+    {
+        "id": 334,
+        "word": "future",
+        "translate": "Gelecek",
+        "learned": false
+    },
+    {
+        "id": 335,
+        "word": "game",
+        "translate": "Oyun",
+        "learned": false
+    },
+    {
+        "id": 336,
+        "word": "garden",
+        "translate": "Bahçe",
+        "learned": false
+    },
+    {
+        "id": 337,
+        "word": "gas",
+        "translate": "gaz",
+        "learned": false
+    },
+    {
+        "id": 338,
+        "word": "general",
+        "translate": "genel",
+        "learned": false
+    },
+    {
+        "id": 339,
+        "word": "generation",
+        "translate": "Nesil",
+        "learned": false
+    },
+    {
+        "id": 340,
+        "word": "get",
+        "translate": "almak",
+        "learned": false
+    },
+    {
+        "id": 341,
+        "word": "girl",
+        "translate": "kız",
+        "learned": false
+    },
+    {
+        "id": 342,
+        "word": "give",
+        "translate": "Vermek",
+        "learned": false
+    },
+    {
+        "id": 343,
+        "word": "glass",
+        "translate": "bardak",
+        "learned": false
+    },
+    {
+        "id": 344,
+        "word": "go",
+        "translate": "gitmek",
+        "learned": false
+    },
+    {
+        "id": 345,
+        "word": "goal",
+        "translate": "hedef",
+        "learned": false
+    },
+    {
+        "id": 346,
+        "word": "good",
+        "translate": "iyi",
+        "learned": false
+    },
+    {
+        "id": 347,
+        "word": "government",
+        "translate": "Hükümet",
+        "learned": false
+    },
+    {
+        "id": 348,
+        "word": "great",
+        "translate": "harika",
+        "learned": false
+    },
+    {
+        "id": 349,
+        "word": "green",
+        "translate": "yeşil",
+        "learned": false
+    },
+    {
+        "id": 350,
+        "word": "ground",
+        "translate": "zemin",
+        "learned": false
+    },
+    {
+        "id": 351,
+        "word": "group",
+        "translate": "Grup",
+        "learned": false
+    },
+    {
+        "id": 352,
+        "word": "grow",
+        "translate": "Büyümek",
+        "learned": false
+    },
+    {
+        "id": 353,
+        "word": "growth",
+        "translate": "büyüme",
+        "learned": false
+    },
+    {
+        "id": 354,
+        "word": "guess",
+        "translate": "tahmin",
+        "learned": false
+    },
+    {
+        "id": 355,
+        "word": "gun",
+        "translate": "Silah",
+        "learned": false
+    },
+    {
+        "id": 356,
+        "word": "guy",
+        "translate": "adam",
+        "learned": false
+    },
+    {
+        "id": 357,
+        "word": "hair",
+        "translate": "saç",
+        "learned": false
+    },
+    {
+        "id": 358,
+        "word": "half",
+        "translate": "yarım",
+        "learned": false
+    },
+    {
+        "id": 359,
+        "word": "hand",
+        "translate": "el",
+        "learned": false
+    },
+    {
+        "id": 360,
+        "word": "hang",
+        "translate": "asmak",
+        "learned": false
+    },
+    {
+        "id": 361,
+        "word": "happen",
+        "translate": "olmak",
+        "learned": false
+    },
+    {
+        "id": 362,
+        "word": "happy",
+        "translate": "mutlu",
+        "learned": false
+    },
+    {
+        "id": 363,
+        "word": "hard",
+        "translate": "zor",
+        "learned": false
+    },
+    {
+        "id": 364,
+        "word": "have",
+        "translate": "sahip olmak",
+        "learned": false
+    },
+    {
+        "id": 365,
+        "word": "he",
+        "translate": "O",
+        "learned": false
+    },
+    {
+        "id": 366,
+        "word": "head",
+        "translate": "Kafa",
+        "learned": false
+    },
+    {
+        "id": 367,
+        "word": "health",
+        "translate": "sağlık",
+        "learned": false
+    },
+    {
+        "id": 368,
+        "word": "hear",
+        "translate": "duymak",
+        "learned": false
+    },
+    {
+        "id": 369,
+        "word": "heart",
+        "translate": "Kalp",
+        "learned": false
+    },
+    {
+        "id": 370,
+        "word": "heat",
+        "translate": "sıcaklık",
+        "learned": false
+    },
+    {
+        "id": 371,
+        "word": "heavy",
+        "translate": "ağır",
+        "learned": false
+    },
+    {
+        "id": 372,
+        "word": "help",
+        "translate": "Yardım",
+        "learned": false
+    },
+    {
+        "id": 373,
+        "word": "her",
+        "translate": "ona",
+        "learned": false
+    },
+    {
+        "id": 374,
+        "word": "here",
+        "translate": "İşte",
+        "learned": false
+    },
+    {
+        "id": 375,
+        "word": "herself",
+        "translate": "kendini",
+        "learned": false
+    },
+    {
+        "id": 376,
+        "word": "high",
+        "translate": "yüksek",
+        "learned": false
+    },
+    {
+        "id": 377,
+        "word": "him",
+        "translate": "Onu",
+        "learned": false
+    },
+    {
+        "id": 378,
+        "word": "himself",
+        "translate": "Kendisi",
+        "learned": false
+    },
+    {
+        "id": 379,
+        "word": "his",
+        "translate": "Onun",
+        "learned": false
+    },
+    {
+        "id": 380,
+        "word": "history",
+        "translate": "Tarih",
+        "learned": false
+    },
+    {
+        "id": 381,
+        "word": "hit",
+        "translate": "Çarptı",
+        "learned": false
+    },
+    {
+        "id": 382,
+        "word": "hold",
+        "translate": "Tutmak",
+        "learned": false
+    },
+    {
+        "id": 383,
+        "word": "home",
+        "translate": "ev",
+        "learned": false
+    },
+    {
+        "id": 384,
+        "word": "hope",
+        "translate": "umut",
+        "learned": false
+    },
+    {
+        "id": 385,
+        "word": "hospital",
+        "translate": "hastane",
+        "learned": false
+    },
+    {
+        "id": 386,
+        "word": "hot",
+        "translate": "Sıcak",
+        "learned": false
+    },
+    {
+        "id": 387,
+        "word": "hotel",
+        "translate": "otel",
+        "learned": false
+    },
+    {
+        "id": 388,
+        "word": "hour",
+        "translate": "saat",
+        "learned": false
+    },
+    {
+        "id": 389,
+        "word": "house",
+        "translate": "ev",
+        "learned": false
+    },
+    {
+        "id": 390,
+        "word": "how",
+        "translate": "Nasıl",
+        "learned": false
+    },
+    {
+        "id": 391,
+        "word": "however",
+        "translate": "ancak",
+        "learned": false
+    },
+    {
+        "id": 392,
+        "word": "huge",
+        "translate": "Kocaman",
+        "learned": false
+    },
+    {
+        "id": 393,
+        "word": "human",
+        "translate": "insan",
+        "learned": false
+    },
+    {
+        "id": 394,
+        "word": "hundred",
+        "translate": "yüz",
+        "learned": false
+    },
+    {
+        "id": 395,
+        "word": "husband",
+        "translate": "koca",
+        "learned": false
+    },
+    {
+        "id": 396,
+        "word": "idea",
+        "translate": "Fikir",
+        "learned": false
+    },
+    {
+        "id": 397,
+        "word": "identify",
+        "translate": "Tanımlamak",
+        "learned": false
+    },
+    {
+        "id": 398,
+        "word": "if",
+        "translate": "Eğer",
+        "learned": false
+    },
+    {
+        "id": 399,
+        "word": "image",
+        "translate": "Imge",
+        "learned": false
+    },
+    {
+        "id": 400,
+        "word": "imagine",
+        "translate": "hayal etmek",
+        "learned": false
+    },
+    {
+        "id": 401,
+        "word": "impact",
+        "translate": "Etki",
+        "learned": false
+    },
+    {
+        "id": 402,
+        "word": "important",
+        "translate": "önemli",
+        "learned": false
+    },
+    {
+        "id": 403,
+        "word": "improve",
+        "translate": "Geliştirmek",
+        "learned": false
+    },
+    {
+        "id": 404,
+        "word": "in",
+        "translate": "içinde",
+        "learned": false
+    },
+    {
+        "id": 405,
+        "word": "include",
+        "translate": "Dahil etmek",
+        "learned": false
+    },
+    {
+        "id": 406,
+        "word": "including",
+        "translate": "dahil olmak üzere",
+        "learned": false
+    },
+    {
+        "id": 407,
+        "word": "increase",
+        "translate": "artırmak",
+        "learned": false
+    },
+    {
+        "id": 408,
+        "word": "indeed",
+        "translate": "aslında",
+        "learned": false
+    },
+    {
+        "id": 409,
+        "word": "indicate",
+        "translate": "Belirtmek",
+        "learned": false
+    },
+    {
+        "id": 410,
+        "word": "individual",
+        "translate": "Bireysel",
+        "learned": false
+    },
+    {
+        "id": 411,
+        "word": "industry",
+        "translate": "Endüstri",
+        "learned": false
+    },
+    {
+        "id": 412,
+        "word": "information",
+        "translate": "bilgi",
+        "learned": false
+    },
+    {
+        "id": 413,
+        "word": "inside",
+        "translate": "Içeride",
+        "learned": false
+    },
+    {
+        "id": 414,
+        "word": "instead",
+        "translate": "yerine",
+        "learned": false
+    },
+    {
+        "id": 415,
+        "word": "institution",
+        "translate": "Kurum",
+        "learned": false
+    },
+    {
+        "id": 416,
+        "word": "interest",
+        "translate": "faiz",
+        "learned": false
+    },
+    {
+        "id": 417,
+        "word": "interesting",
+        "translate": "ilginç",
+        "learned": false
+    },
+    {
+        "id": 418,
+        "word": "international",
+        "translate": "Uluslararası",
+        "learned": false
+    },
+    {
+        "id": 419,
+        "word": "interview",
+        "translate": "röportaj",
+        "learned": false
+    },
+    {
+        "id": 420,
+        "word": "into",
+        "translate": "Içine",
+        "learned": false
+    },
+    {
+        "id": 421,
+        "word": "investment",
+        "translate": "yatırım",
+        "learned": false
+    },
+    {
+        "id": 422,
+        "word": "involve",
+        "translate": "Dahil etmek",
+        "learned": false
+    },
+    {
+        "id": 423,
+        "word": "issue",
+        "translate": "konu",
+        "learned": false
+    },
+    {
+        "id": 424,
+        "word": "it",
+        "translate": "o",
+        "learned": false
+    },
+    {
+        "id": 425,
+        "word": "item",
+        "translate": "Öğe",
+        "learned": false
+    },
+    {
+        "id": 426,
+        "word": "its",
+        "translate": "onun",
+        "learned": false
+    },
+    {
+        "id": 427,
+        "word": "itself",
+        "translate": "Kendis",
+        "learned": false
+    },
+    {
+        "id": 428,
+        "word": "job",
+        "translate": "iş",
+        "learned": false
+    },
+    {
+        "id": 429,
+        "word": "join",
+        "translate": "katılmak",
+        "learned": false
+    },
+    {
+        "id": 430,
+        "word": "just",
+        "translate": "sadece",
+        "learned": false
+    },
+    {
+        "id": 431,
+        "word": "keep",
+        "translate": "Tutmak",
+        "learned": false
+    },
+    {
+        "id": 432,
+        "word": "key",
+        "translate": "Anahtar",
+        "learned": false
+    },
+    {
+        "id": 433,
+        "word": "kid",
+        "translate": "çocuk",
+        "learned": false
+    },
+    {
+        "id": 434,
+        "word": "kill",
+        "translate": "öldürmek",
+        "learned": false
+    },
+    {
+        "id": 435,
+        "word": "kind",
+        "translate": "Tür",
+        "learned": false
+    },
+    {
+        "id": 436,
+        "word": "kitchen",
+        "translate": "mutfak",
+        "learned": false
+    },
+    {
+        "id": 437,
+        "word": "know",
+        "translate": "Bilmek",
+        "learned": false
+    },
+    {
+        "id": 438,
+        "word": "knowledge",
+        "translate": "bilgi",
+        "learned": false
+    },
+    {
+        "id": 439,
+        "word": "land",
+        "translate": "Arazi",
+        "learned": false
+    },
+    {
+        "id": 440,
+        "word": "language",
+        "translate": "dil",
+        "learned": false
+    },
+    {
+        "id": 441,
+        "word": "large",
+        "translate": "geniş",
+        "learned": false
+    },
+    {
+        "id": 442,
+        "word": "last",
+        "translate": "son",
+        "learned": false
+    },
+    {
+        "id": 443,
+        "word": "late",
+        "translate": "geç",
+        "learned": false
+    },
+    {
+        "id": 444,
+        "word": "later",
+        "translate": "sonra",
+        "learned": false
+    },
+    {
+        "id": 445,
+        "word": "laugh",
+        "translate": "gülmek",
+        "learned": false
+    },
+    {
+        "id": 446,
+        "word": "law",
+        "translate": "hukuk",
+        "learned": false
+    },
+    {
+        "id": 447,
+        "word": "lawyer",
+        "translate": "avukat",
+        "learned": false
+    },
+    {
+        "id": 448,
+        "word": "lay",
+        "translate": "Yatırmak",
+        "learned": false
+    },
+    {
+        "id": 449,
+        "word": "lead",
+        "translate": "öncülük etmek",
+        "learned": false
+    },
+    {
+        "id": 450,
+        "word": "leader",
+        "translate": "Lider",
+        "learned": false
+    },
+    {
+        "id": 451,
+        "word": "learn",
+        "translate": "Öğrenmek",
+        "learned": false
+    },
+    {
+        "id": 452,
+        "word": "least",
+        "translate": "en az",
+        "learned": false
+    },
+    {
+        "id": 453,
+        "word": "leave",
+        "translate": "ayrılmak",
+        "learned": false
+    },
+    {
+        "id": 454,
+        "word": "left",
+        "translate": "ayrıldı",
+        "learned": false
+    },
+    {
+        "id": 455,
+        "word": "leg",
+        "translate": "bacak",
+        "learned": false
+    },
+    {
+        "id": 456,
+        "word": "legal",
+        "translate": "yasal",
+        "learned": false
+    },
+    {
+        "id": 457,
+        "word": "less",
+        "translate": "az",
+        "learned": false
+    },
+    {
+        "id": 458,
+        "word": "let",
+        "translate": "Izin vermek",
+        "learned": false
+    },
+    {
+        "id": 459,
+        "word": "letter",
+        "translate": "Mektup",
+        "learned": false
+    },
+    {
+        "id": 460,
+        "word": "level",
+        "translate": "Seviye",
+        "learned": false
+    },
+    {
+        "id": 461,
+        "word": "lie",
+        "translate": "Yalan",
+        "learned": false
+    },
+    {
+        "id": 462,
+        "word": "life",
+        "translate": "Hayat",
+        "learned": false
+    },
+    {
+        "id": 463,
+        "word": "light",
+        "translate": "Işık",
+        "learned": false
+    },
+    {
+        "id": 464,
+        "word": "like",
+        "translate": "sevmek",
+        "learned": false
+    },
+    {
+        "id": 465,
+        "word": "likely",
+        "translate": "Muhtemel",
+        "learned": false
+    },
+    {
+        "id": 466,
+        "word": "line",
+        "translate": "çizgi, sıra",
+        "learned": false
+    },
+    {
+        "id": 467,
+        "word": "list",
+        "translate": "liste",
+        "learned": false
+    },
+    {
+        "id": 468,
+        "word": "listen",
+        "translate": "Dinlemek",
+        "learned": false
+    },
+    {
+        "id": 469,
+        "word": "little",
+        "translate": "Küçük",
+        "learned": false
+    },
+    {
+        "id": 470,
+        "word": "live",
+        "translate": "canlı",
+        "learned": false
+    },
+    {
+        "id": 471,
+        "word": "local",
+        "translate": "yerel",
+        "learned": false
+    },
+    {
+        "id": 472,
+        "word": "long",
+        "translate": "uzun",
+        "learned": false
+    },
+    {
+        "id": 473,
+        "word": "look",
+        "translate": "bakmak",
+        "learned": false
+    },
+    {
+        "id": 474,
+        "word": "lose",
+        "translate": "kaybetmek",
+        "learned": false
+    },
+    {
+        "id": 475,
+        "word": "loss",
+        "translate": "Kayıp",
+        "learned": false
+    },
+    {
+        "id": 476,
+        "word": "lot",
+        "translate": "çok",
+        "learned": false
+    },
+    {
+        "id": 477,
+        "word": "love",
+        "translate": "Aşk",
+        "learned": false
+    },
+    {
+        "id": 478,
+        "word": "low",
+        "translate": "düşük",
+        "learned": false
+    },
+    {
+        "id": 479,
+        "word": "machine",
+        "translate": "Makine",
+        "learned": false
+    },
+    {
+        "id": 480,
+        "word": "magazine",
+        "translate": "Dergi",
+        "learned": false
+    },
+    {
+        "id": 481,
+        "word": "main",
+        "translate": "ana",
+        "learned": false
+    },
+    {
+        "id": 482,
+        "word": "maintain",
+        "translate": "sürdürmek",
+        "learned": false
+    },
+    {
+        "id": 483,
+        "word": "majority",
+        "translate": "Çoğunluk",
+        "learned": false
+    },
+    {
+        "id": 484,
+        "word": "make",
+        "translate": "Yapmak",
+        "learned": false
+    },
+    {
+        "id": 485,
+        "word": "man",
+        "translate": "adam",
+        "learned": false
+    },
+    {
+        "id": 486,
+        "word": "manage",
+        "translate": "Yönetmek",
+        "learned": false
+    },
+    {
+        "id": 487,
+        "word": "management",
+        "translate": "Yönetim",
+        "learned": false
+    },
+    {
+        "id": 488,
+        "word": "manager",
+        "translate": "Müdür",
+        "learned": false
+    },
+    {
+        "id": 489,
+        "word": "many",
+        "translate": "Çok",
+        "learned": false
+    },
+    {
+        "id": 490,
+        "word": "market",
+        "translate": "pazar",
+        "learned": false
+    },
+    {
+        "id": 491,
+        "word": "marriage",
+        "translate": "evlilik",
+        "learned": false
+    },
+    {
+        "id": 492,
+        "word": "material",
+        "translate": "malzeme",
+        "learned": false
+    },
+    {
+        "id": 493,
+        "word": "matter",
+        "translate": "Madde",
+        "learned": false
+    },
+    {
+        "id": 494,
+        "word": "may",
+        "translate": "Mayıs ayı",
+        "learned": false
+    },
+    {
+        "id": 495,
+        "word": "maybe",
+        "translate": "olabilir",
+        "learned": false
+    },
+    {
+        "id": 496,
+        "word": "me",
+        "translate": "ben mi",
+        "learned": false
+    },
+    {
+        "id": 497,
+        "word": "mean",
+        "translate": "anlamına gelmek",
+        "learned": false
+    },
+    {
+        "id": 498,
+        "word": "measure",
+        "translate": "Ölçmek",
+        "learned": false
+    },
+    {
+        "id": 499,
+        "word": "media",
+        "translate": "Medya",
+        "learned": false
+    },
+    {
+        "id": 500,
+        "word": "medical",
+        "translate": "tıbbi",
+        "learned": false
+    },
+    {
+        "id": 501,
+        "word": "meet",
+        "translate": "Buluşmak",
+        "learned": false
+    },
+    {
+        "id": 502,
+        "word": "meeting",
+        "translate": "toplantı",
+        "learned": false
+    },
+    {
+        "id": 503,
+        "word": "member",
+        "translate": "Üye",
+        "learned": false
+    },
+    {
+        "id": 504,
+        "word": "memory",
+        "translate": "Hafıza",
+        "learned": false
+    },
+    {
+        "id": 505,
+        "word": "mention",
+        "translate": "söz etmek",
+        "learned": false
+    },
+    {
+        "id": 506,
+        "word": "message",
+        "translate": "mesaj",
+        "learned": false
+    },
+    {
+        "id": 507,
+        "word": "method",
+        "translate": "yöntem",
+        "learned": false
+    },
+    {
+        "id": 508,
+        "word": "middle",
+        "translate": "orta",
+        "learned": false
+    },
+    {
+        "id": 509,
+        "word": "might",
+        "translate": "belki",
+        "learned": false
+    },
+    {
+        "id": 510,
+        "word": "military",
+        "translate": "askeri",
+        "learned": false
+    },
+    {
+        "id": 511,
+        "word": "million",
+        "translate": "milyon",
+        "learned": false
+    },
+    {
+        "id": 512,
+        "word": "mind",
+        "translate": "Zihin",
+        "learned": false
+    },
+    {
+        "id": 513,
+        "word": "minute",
+        "translate": "dakika",
+        "learned": false
+    },
+    {
+        "id": 514,
+        "word": "miss",
+        "translate": "Özlemek",
+        "learned": false
+    },
+    {
+        "id": 515,
+        "word": "mission",
+        "translate": "misyon",
+        "learned": false
+    },
+    {
+        "id": 516,
+        "word": "model",
+        "translate": "Model",
+        "learned": false
+    },
+    {
+        "id": 517,
+        "word": "modern",
+        "translate": "modern",
+        "learned": false
+    },
+    {
+        "id": 518,
+        "word": "moment",
+        "translate": "an",
+        "learned": false
+    },
+    {
+        "id": 519,
+        "word": "money",
+        "translate": "para",
+        "learned": false
+    },
+    {
+        "id": 520,
+        "word": "month",
+        "translate": "ay",
+        "learned": false
+    },
+    {
+        "id": 521,
+        "word": "more",
+        "translate": "Daha",
+        "learned": false
+    },
+    {
+        "id": 522,
+        "word": "morning",
+        "translate": "sabah",
+        "learned": false
+    },
+    {
+        "id": 523,
+        "word": "most",
+        "translate": "çoğu",
+        "learned": false
+    },
+    {
+        "id": 524,
+        "word": "mother",
+        "translate": "Anne",
+        "learned": false
+    },
+    {
+        "id": 525,
+        "word": "mouth",
+        "translate": "ağız",
+        "learned": false
+    },
+    {
+        "id": 526,
+        "word": "move",
+        "translate": "hareket etmek",
+        "learned": false
+    },
+    {
+        "id": 527,
+        "word": "movement",
+        "translate": "Hareket",
+        "learned": false
+    },
+    {
+        "id": 528,
+        "word": "movie",
+        "translate": "film",
+        "learned": false
+    },
+    {
+        "id": 529,
+        "word": "Mr",
+        "translate": "Bay",
+        "learned": false
+    },
+    {
+        "id": 530,
+        "word": "Mrs",
+        "translate": "bayan",
+        "learned": false
+    },
+    {
+        "id": 531,
+        "word": "much",
+        "translate": "çok",
+        "learned": false
+    },
+    {
+        "id": 532,
+        "word": "music",
+        "translate": "müzik",
+        "learned": false
+    },
+    {
+        "id": 533,
+        "word": "must",
+        "translate": "Zorunlu",
+        "learned": false
+    },
+    {
+        "id": 534,
+        "word": "my",
+        "translate": "benim",
+        "learned": false
+    },
+    {
+        "id": 535,
+        "word": "myself",
+        "translate": "kendim",
+        "learned": false
+    },
+    {
+        "id": 536,
+        "word": "name",
+        "translate": "Isim",
+        "learned": false
+    },
+    {
+        "id": 537,
+        "word": "nation",
+        "translate": "Ulus",
+        "learned": false
+    },
+    {
+        "id": 538,
+        "word": "national",
+        "translate": "Ulusal",
+        "learned": false
+    },
+    {
+        "id": 539,
+        "word": "natural",
+        "translate": "doğal",
+        "learned": false
+    },
+    {
+        "id": 540,
+        "word": "nature",
+        "translate": "doğa",
+        "learned": false
+    },
+    {
+        "id": 541,
+        "word": "near",
+        "translate": "Yakın",
+        "learned": false
+    },
+    {
+        "id": 542,
+        "word": "nearly",
+        "translate": "neredeyse",
+        "learned": false
+    },
+    {
+        "id": 543,
+        "word": "necessary",
+        "translate": "gerekli",
+        "learned": false
+    },
+    {
+        "id": 544,
+        "word": "need",
+        "translate": "Ihtiyaç",
+        "learned": false
+    },
+    {
+        "id": 545,
+        "word": "network",
+        "translate": "ağ",
+        "learned": false
+    },
+    {
+        "id": 546,
+        "word": "never",
+        "translate": "asla",
+        "learned": false
+    },
+    {
+        "id": 547,
+        "word": "new",
+        "translate": "yeni",
+        "learned": false
+    },
+    {
+        "id": 548,
+        "word": "news",
+        "translate": "haber",
+        "learned": false
+    },
+    {
+        "id": 549,
+        "word": "newspaper",
+        "translate": "gazete",
+        "learned": false
+    },
+    {
+        "id": 550,
+        "word": "next",
+        "translate": "Sonraki",
+        "learned": false
+    },
+    {
+        "id": 551,
+        "word": "nice",
+        "translate": "Güzel",
+        "learned": false
+    },
+    {
+        "id": 552,
+        "word": "night",
+        "translate": "gece",
+        "learned": false
+    },
+    {
+        "id": 553,
+        "word": "no",
+        "translate": "yok hayır",
+        "learned": false
+    },
+    {
+        "id": 554,
+        "word": "none",
+        "translate": "Yok",
+        "learned": false
+    },
+    {
+        "id": 555,
+        "word": "nor",
+        "translate": "Ne de",
+        "learned": false
+    },
+    {
+        "id": 556,
+        "word": "north",
+        "translate": "kuzeyinde",
+        "learned": false
+    },
+    {
+        "id": 557,
+        "word": "not",
+        "translate": "değil",
+        "learned": false
+    },
+    {
+        "id": 558,
+        "word": "note",
+        "translate": "Not",
+        "learned": false
+    },
+    {
+        "id": 559,
+        "word": "nothing",
+        "translate": "Hiçbir şey",
+        "learned": false
+    },
+    {
+        "id": 560,
+        "word": "notice",
+        "translate": "ihbar",
+        "learned": false
+    },
+    {
+        "id": 561,
+        "word": "now",
+        "translate": "Şimdi",
+        "learned": false
+    },
+    {
+        "id": 562,
+        "word": "number",
+        "translate": "numara",
+        "learned": false
+    },
+    {
+        "id": 563,
+        "word": "occur",
+        "translate": "Meydana gelmek",
+        "learned": false
+    },
+    {
+        "id": 564,
+        "word": "off",
+        "translate": "Kapalı",
+        "learned": false
+    },
+    {
+        "id": 565,
+        "word": "offer",
+        "translate": "Teklif etmek",
+        "learned": false
+    },
+    {
+        "id": 566,
+        "word": "office",
+        "translate": "ofis",
+        "learned": false
+    },
+    {
+        "id": 567,
+        "word": "officer",
+        "translate": "Memur",
+        "learned": false
+    },
+    {
+        "id": 568,
+        "word": "official",
+        "translate": "resmi",
+        "learned": false
+    },
+    {
+        "id": 569,
+        "word": "often",
+        "translate": "Sıklıkla",
+        "learned": false
+    },
+    {
+        "id": 570,
+        "word": "oil",
+        "translate": "yağ",
+        "learned": false
+    },
+    {
+        "id": 571,
+        "word": "ok",
+        "translate": "tamam",
+        "learned": false
+    },
+    {
+        "id": 572,
+        "word": "old",
+        "translate": "eski",
+        "learned": false
+    },
+    {
+        "id": 573,
+        "word": "on",
+        "translate": "Üzerinde",
+        "learned": false
+    },
+    {
+        "id": 574,
+        "word": "once",
+        "translate": "bir Zamanlar",
+        "learned": false
+    },
+    {
+        "id": 575,
+        "word": "one",
+        "translate": "bir",
+        "learned": false
+    },
+    {
+        "id": 576,
+        "word": "only",
+        "translate": "bir tek",
+        "learned": false
+    },
+    {
+        "id": 577,
+        "word": "onto",
+        "translate": "üstüne",
+        "learned": false
+    },
+    {
+        "id": 578,
+        "word": "open",
+        "translate": "açık",
+        "learned": false
+    },
+    {
+        "id": 579,
+        "word": "operation",
+        "translate": "Ameliyat",
+        "learned": false
+    },
+    {
+        "id": 580,
+        "word": "opportunity",
+        "translate": "Fırsat",
+        "learned": false
+    },
+    {
+        "id": 581,
+        "word": "option",
+        "translate": "Seçenek",
+        "learned": false
+    },
+    {
+        "id": 582,
+        "word": "or",
+        "translate": "veya",
+        "learned": false
+    },
+    {
+        "id": 583,
+        "word": "order",
+        "translate": "sipariş",
+        "learned": false
+    },
+    {
+        "id": 584,
+        "word": "organization",
+        "translate": "Organizasyon",
+        "learned": false
+    },
+    {
+        "id": 585,
+        "word": "other",
+        "translate": "diğer",
+        "learned": false
+    },
+    {
+        "id": 586,
+        "word": "others",
+        "translate": "Diğerleri",
+        "learned": false
+    },
+    {
+        "id": 587,
+        "word": "our",
+        "translate": "bizim",
+        "learned": false
+    },
+    {
+        "id": 588,
+        "word": "out",
+        "translate": "dışarı",
+        "learned": false
+    },
+    {
+        "id": 589,
+        "word": "outside",
+        "translate": "dışında",
+        "learned": false
+    },
+    {
+        "id": 590,
+        "word": "over",
+        "translate": "Bitti",
+        "learned": false
+    },
+    {
+        "id": 591,
+        "word": "own",
+        "translate": "kendi",
+        "learned": false
+    },
+    {
+        "id": 592,
+        "word": "owner",
+        "translate": "sahip",
+        "learned": false
+    },
+    {
+        "id": 593,
+        "word": "page",
+        "translate": "sayfa",
+        "learned": false
+    },
+    {
+        "id": 594,
+        "word": "pain",
+        "translate": "Ağrı",
+        "learned": false
+    },
+    {
+        "id": 595,
+        "word": "painting",
+        "translate": "Boyama",
+        "learned": false
+    },
+    {
+        "id": 596,
+        "word": "paper",
+        "translate": "Kağıt",
+        "learned": false
+    },
+    {
+        "id": 597,
+        "word": "parent",
+        "translate": "Ebeveyn",
+        "learned": false
+    },
+    {
+        "id": 598,
+        "word": "part",
+        "translate": "Bölüm",
+        "learned": false
+    },
+    {
+        "id": 599,
+        "word": "participant",
+        "translate": "katılımcı",
+        "learned": false
+    },
+    {
+        "id": 600,
+        "word": "particular",
+        "translate": "Özel",
+        "learned": false
+    },
+    {
+        "id": 601,
+        "word": "particularly",
+        "translate": "özellikle",
+        "learned": false
+    },
+    {
+        "id": 602,
+        "word": "partner",
+        "translate": "ortak",
+        "learned": false
+    },
+    {
+        "id": 603,
+        "word": "party",
+        "translate": "Parti",
+        "learned": false
+    },
+    {
+        "id": 604,
+        "word": "pass",
+        "translate": "Geçmek",
+        "learned": false
+    },
+    {
+        "id": 605,
+        "word": "past",
+        "translate": "Geçmiş",
+        "learned": false
+    },
+    {
+        "id": 606,
+        "word": "patient",
+        "translate": "hasta",
+        "learned": false
+    },
+    {
+        "id": 607,
+        "word": "pattern",
+        "translate": "Desen",
+        "learned": false
+    },
+    {
+        "id": 608,
+        "word": "pay",
+        "translate": "Ödemek",
+        "learned": false
+    },
+    {
+        "id": 609,
+        "word": "peace",
+        "translate": "Barış",
+        "learned": false
+    },
+    {
+        "id": 610,
+        "word": "people",
+        "translate": "insanlar",
+        "learned": false
+    },
+    {
+        "id": 611,
+        "word": "per",
+        "translate": "başına",
+        "learned": false
+    },
+    {
+        "id": 612,
+        "word": "perform",
+        "translate": "Gerçekleştirmek",
+        "learned": false
+    },
+    {
+        "id": 613,
+        "word": "performance",
+        "translate": "Performans",
+        "learned": false
+    },
+    {
+        "id": 614,
+        "word": "perhaps",
+        "translate": "Belki",
+        "learned": false
+    },
+    {
+        "id": 615,
+        "word": "period",
+        "translate": "Dönem",
+        "learned": false
+    },
+    {
+        "id": 616,
+        "word": "person",
+        "translate": "kişi",
+        "learned": false
+    },
+    {
+        "id": 617,
+        "word": "personal",
+        "translate": "kişisel",
+        "learned": false
+    },
+    {
+        "id": 618,
+        "word": "phone",
+        "translate": "telefon",
+        "learned": false
+    },
+    {
+        "id": 619,
+        "word": "physical",
+        "translate": "fiziksel",
+        "learned": false
+    },
+    {
+        "id": 620,
+        "word": "pick",
+        "translate": "Almak",
+        "learned": false
+    },
+    {
+        "id": 621,
+        "word": "picture",
+        "translate": "resim",
+        "learned": false
+    },
+    {
+        "id": 622,
+        "word": "piece",
+        "translate": "parça",
+        "learned": false
+    },
+    {
+        "id": 623,
+        "word": "place",
+        "translate": "Yer",
+        "learned": false
+    },
+    {
+        "id": 624,
+        "word": "plan",
+        "translate": "plan",
+        "learned": false
+    },
+    {
+        "id": 625,
+        "word": "plant",
+        "translate": "bitki",
+        "learned": false
+    },
+    {
+        "id": 626,
+        "word": "play",
+        "translate": "Oynamak",
+        "learned": false
+    },
+    {
+        "id": 627,
+        "word": "player",
+        "translate": "Oyuncu",
+        "learned": false
+    },
+    {
+        "id": 628,
+        "word": "point",
+        "translate": "puan",
+        "learned": false
+    },
+    {
+        "id": 629,
+        "word": "police",
+        "translate": "polis",
+        "learned": false
+    },
+    {
+        "id": 630,
+        "word": "policy",
+        "translate": "politika",
+        "learned": false
+    },
+    {
+        "id": 631,
+        "word": "political",
+        "translate": "Siyasi",
+        "learned": false
+    },
+    {
+        "id": 632,
+        "word": "politics",
+        "translate": "siyaset",
+        "learned": false
+    },
+    {
+        "id": 633,
+        "word": "poor",
+        "translate": "Fakir",
+        "learned": false
+    },
+    {
+        "id": 634,
+        "word": "popular",
+        "translate": "popüler",
+        "learned": false
+    },
+    {
+        "id": 635,
+        "word": "population",
+        "translate": "Nüfus",
+        "learned": false
+    },
+    {
+        "id": 636,
+        "word": "position",
+        "translate": "Pozisyon",
+        "learned": false
+    },
+    {
+        "id": 637,
+        "word": "positive",
+        "translate": "pozitif",
+        "learned": false
+    },
+    {
+        "id": 638,
+        "word": "possible",
+        "translate": "mümkün",
+        "learned": false
+    },
+    {
+        "id": 639,
+        "word": "power",
+        "translate": "güç",
+        "learned": false
+    },
+    {
+        "id": 640,
+        "word": "practice",
+        "translate": "Uygulama",
+        "learned": false
+    },
+    {
+        "id": 641,
+        "word": "prepare",
+        "translate": "Hazırlamak",
+        "learned": false
+    },
+    {
+        "id": 642,
+        "word": "present",
+        "translate": "mevcut",
+        "learned": false
+    },
+    {
+        "id": 643,
+        "word": "president",
+        "translate": "Devlet Başkanı",
+        "learned": false
+    },
+    {
+        "id": 644,
+        "word": "pressure",
+        "translate": "basınç",
+        "learned": false
+    },
+    {
+        "id": 645,
+        "word": "pretty",
+        "translate": "güzel",
+        "learned": false
+    },
+    {
+        "id": 646,
+        "word": "prevent",
+        "translate": "engel olmak",
+        "learned": false
+    },
+    {
+        "id": 647,
+        "word": "price",
+        "translate": "fiyat",
+        "learned": false
+    },
+    {
+        "id": 648,
+        "word": "private",
+        "translate": "özel",
+        "learned": false
+    },
+    {
+        "id": 649,
+        "word": "probably",
+        "translate": "muhtemelen",
+        "learned": false
+    },
+    {
+        "id": 650,
+        "word": "problem",
+        "translate": "sorun",
+        "learned": false
+    },
+    {
+        "id": 651,
+        "word": "process",
+        "translate": "Işlem",
+        "learned": false
+    },
+    {
+        "id": 652,
+        "word": "produce",
+        "translate": "üretmek",
+        "learned": false
+    },
+    {
+        "id": 653,
+        "word": "product",
+        "translate": "ürün",
+        "learned": false
+    },
+    {
+        "id": 654,
+        "word": "production",
+        "translate": "üretim",
+        "learned": false
+    },
+    {
+        "id": 655,
+        "word": "professional",
+        "translate": "profesyonel",
+        "learned": false
+    },
+    {
+        "id": 656,
+        "word": "professor",
+        "translate": "Profesör",
+        "learned": false
+    },
+    {
+        "id": 657,
+        "word": "program",
+        "translate": "Program",
+        "learned": false
+    },
+    {
+        "id": 658,
+        "word": "project",
+        "translate": "Proje",
+        "learned": false
+    },
+    {
+        "id": 659,
+        "word": "property",
+        "translate": "Gayrimenkul",
+        "learned": false
+    },
+    {
+        "id": 660,
+        "word": "protect",
+        "translate": "Korumak",
+        "learned": false
+    },
+    {
+        "id": 661,
+        "word": "prove",
+        "translate": "kanıtlamak",
+        "learned": false
+    },
+    {
+        "id": 662,
+        "word": "provide",
+        "translate": "sağlamak",
+        "learned": false
+    },
+    {
+        "id": 663,
+        "word": "public",
+        "translate": "halka açık",
+        "learned": false
+    },
+    {
+        "id": 664,
+        "word": "pull",
+        "translate": "Çek",
+        "learned": false
+    },
+    {
+        "id": 665,
+        "word": "purpose",
+        "translate": "Amaç",
+        "learned": false
+    },
+    {
+        "id": 666,
+        "word": "push",
+        "translate": "Itmek",
+        "learned": false
+    },
+    {
+        "id": 667,
+        "word": "put",
+        "translate": "koymak",
+        "learned": false
+    },
+    {
+        "id": 668,
+        "word": "quality",
+        "translate": "kalite",
+        "learned": false
+    },
+    {
+        "id": 669,
+        "word": "question",
+        "translate": "soru",
+        "learned": false
+    },
+    {
+        "id": 670,
+        "word": "quickly",
+        "translate": "hızlı bir şekilde",
+        "learned": false
+    },
+    {
+        "id": 671,
+        "word": "quite",
+        "translate": "oldukça",
+        "learned": false
+    },
+    {
+        "id": 672,
+        "word": "race",
+        "translate": "yarış",
+        "learned": false
+    },
+    {
+        "id": 673,
+        "word": "radio",
+        "translate": "radyo",
+        "learned": false
+    },
+    {
+        "id": 674,
+        "word": "raise",
+        "translate": "yükseltmek",
+        "learned": false
+    },
+    {
+        "id": 675,
+        "word": "range",
+        "translate": "Menzil",
+        "learned": false
+    },
+    {
+        "id": 676,
+        "word": "rate",
+        "translate": "Oran",
+        "learned": false
+    },
+    {
+        "id": 677,
+        "word": "rather",
+        "translate": "daha doğrusu",
+        "learned": false
+    },
+    {
+        "id": 678,
+        "word": "reach",
+        "translate": "Ulaşmak",
+        "learned": false
+    },
+    {
+        "id": 679,
+        "word": "read",
+        "translate": "okumak",
+        "learned": false
+    },
+    {
+        "id": 680,
+        "word": "ready",
+        "translate": "hazır",
+        "learned": false
+    },
+    {
+        "id": 681,
+        "word": "real",
+        "translate": "gerçek",
+        "learned": false
+    },
+    {
+        "id": 682,
+        "word": "reality",
+        "translate": "Gerçeklik",
+        "learned": false
+    },
+    {
+        "id": 683,
+        "word": "realize",
+        "translate": "Farketmek",
+        "learned": false
+    },
+    {
+        "id": 684,
+        "word": "really",
+        "translate": "Gerçekten mi",
+        "learned": false
+    },
+    {
+        "id": 685,
+        "word": "reason",
+        "translate": "neden",
+        "learned": false
+    },
+    {
+        "id": 686,
+        "word": "receive",
+        "translate": "teslim almak",
+        "learned": false
+    },
+    {
+        "id": 687,
+        "word": "recent",
+        "translate": "son",
+        "learned": false
+    },
+    {
+        "id": 688,
+        "word": "recently",
+        "translate": "son günlerde",
+        "learned": false
+    },
+    {
+        "id": 689,
+        "word": "recognize",
+        "translate": "tanımak",
+        "learned": false
+    },
+    {
+        "id": 690,
+        "word": "record",
+        "translate": "kayıt",
+        "learned": false
+    },
+    {
+        "id": 691,
+        "word": "red",
+        "translate": "kırmızı",
+        "learned": false
+    },
+    {
+        "id": 692,
+        "word": "reduce",
+        "translate": "Azaltmak",
+        "learned": false
+    },
+    {
+        "id": 693,
+        "word": "reflect",
+        "translate": "Yansıtmak",
+        "learned": false
+    },
+    {
+        "id": 694,
+        "word": "region",
+        "translate": "Bölge",
+        "learned": false
+    },
+    {
+        "id": 695,
+        "word": "relate",
+        "translate": "Ilişki kurmak",
+        "learned": false
+    },
+    {
+        "id": 696,
+        "word": "relationship",
+        "translate": "Ilişki",
+        "learned": false
+    },
+    {
+        "id": 697,
+        "word": "religious",
+        "translate": "dini",
+        "learned": false
+    },
+    {
+        "id": 698,
+        "word": "remain",
+        "translate": "kalmak",
+        "learned": false
+    },
+    {
+        "id": 699,
+        "word": "remember",
+        "translate": "hatırlamak",
+        "learned": false
+    },
+    {
+        "id": 700,
+        "word": "remove",
+        "translate": "kaldırmak",
+        "learned": false
+    },
+    {
+        "id": 701,
+        "word": "report",
+        "translate": "rapor",
+        "learned": false
+    },
+    {
+        "id": 702,
+        "word": "represent",
+        "translate": "temsil etmek",
+        "learned": false
+    },
+    {
+        "id": 703,
+        "word": "Republican",
+        "translate": "Cumhuriyetçi",
+        "learned": false
+    },
+    {
+        "id": 704,
+        "word": "require",
+        "translate": "Gerektirir",
+        "learned": false
+    },
+    {
+        "id": 705,
+        "word": "research",
+        "translate": "Araştırma",
+        "learned": false
+    },
+    {
+        "id": 706,
+        "word": "resource",
+        "translate": "kaynak",
+        "learned": false
+    },
+    {
+        "id": 707,
+        "word": "respond",
+        "translate": "yanıtlamak",
+        "learned": false
+    },
+    {
+        "id": 708,
+        "word": "response",
+        "translate": "Cevap",
+        "learned": false
+    },
+    {
+        "id": 709,
+        "word": "responsibility",
+        "translate": "Sorumluluk",
+        "learned": false
+    },
+    {
+        "id": 710,
+        "word": "rest",
+        "translate": "dinlenme",
+        "learned": false
+    },
+    {
+        "id": 711,
+        "word": "result",
+        "translate": "sonuç",
+        "learned": false
+    },
+    {
+        "id": 712,
+        "word": "return",
+        "translate": "dönüş",
+        "learned": false
+    },
+    {
+        "id": 713,
+        "word": "reveal",
+        "translate": "ortaya çıkartmak",
+        "learned": false
+    },
+    {
+        "id": 714,
+        "word": "rich",
+        "translate": "zengin",
+        "learned": false
+    },
+    {
+        "id": 715,
+        "word": "right",
+        "translate": "sağ",
+        "learned": false
+    },
+    {
+        "id": 716,
+        "word": "rise",
+        "translate": "Yükselmek",
+        "learned": false
+    },
+    {
+        "id": 717,
+        "word": "risk",
+        "translate": "risk",
+        "learned": false
+    },
+    {
+        "id": 718,
+        "word": "road",
+        "translate": "yol",
+        "learned": false
+    },
+    {
+        "id": 719,
+        "word": "rock",
+        "translate": "Kaya",
+        "learned": false
+    },
+    {
+        "id": 720,
+        "word": "role",
+        "translate": "Rol",
+        "learned": false
+    },
+    {
+        "id": 721,
+        "word": "room",
+        "translate": "Oda",
+        "learned": false
+    },
+    {
+        "id": 722,
+        "word": "rule",
+        "translate": "kural",
+        "learned": false
+    },
+    {
+        "id": 723,
+        "word": "run",
+        "translate": "koşmak",
+        "learned": false
+    },
+    {
+        "id": 724,
+        "word": "safe",
+        "translate": "Güvenli",
+        "learned": false
+    },
+    {
+        "id": 725,
+        "word": "same",
+        "translate": "aynı",
+        "learned": false
+    },
+    {
+        "id": 726,
+        "word": "save",
+        "translate": "kayıt etmek",
+        "learned": false
+    },
+    {
+        "id": 727,
+        "word": "say",
+        "translate": "söylemek",
+        "learned": false
+    },
+    {
+        "id": 728,
+        "word": "scene",
+        "translate": "faliyet alani, sahne",
+        "learned": false
+    },
+    {
+        "id": 729,
+        "word": "school",
+        "translate": "Okul",
+        "learned": false
+    },
+    {
+        "id": 730,
+        "word": "science",
+        "translate": "Bilim",
+        "learned": false
+    },
+    {
+        "id": 731,
+        "word": "scientist",
+        "translate": "Bilim insanı",
+        "learned": false
+    },
+    {
+        "id": 732,
+        "word": "score",
+        "translate": "Skor",
+        "learned": false
+    },
+    {
+        "id": 733,
+        "word": "sea",
+        "translate": "deniz",
+        "learned": false
+    },
+    {
+        "id": 734,
+        "word": "season",
+        "translate": "sezon",
+        "learned": false
+    },
+    {
+        "id": 735,
+        "word": "seat",
+        "translate": "koltuk",
+        "learned": false
+    },
+    {
+        "id": 736,
+        "word": "second",
+        "translate": "ikinci",
+        "learned": false
+    },
+    {
+        "id": 737,
+        "word": "section",
+        "translate": "Bölüm",
+        "learned": false
+    },
+    {
+        "id": 738,
+        "word": "security",
+        "translate": "güvenlik",
+        "learned": false
+    },
+    {
+        "id": 739,
+        "word": "see",
+        "translate": "görmek",
+        "learned": false
+    },
+    {
+        "id": 740,
+        "word": "seek",
+        "translate": "aramak",
+        "learned": false
+    },
+    {
+        "id": 741,
+        "word": "seem",
+        "translate": "görünmek",
+        "learned": false
+    },
+    {
+        "id": 742,
+        "word": "sell",
+        "translate": "satmak",
+        "learned": false
+    },
+    {
+        "id": 743,
+        "word": "send",
+        "translate": "Göndermek",
+        "learned": false
+    },
+    {
+        "id": 744,
+        "word": "senior",
+        "translate": "Kıdemli",
+        "learned": false
+    },
+    {
+        "id": 745,
+        "word": "sense",
+        "translate": "Anlam",
+        "learned": false
+    },
+    {
+        "id": 746,
+        "word": "series",
+        "translate": "dizi",
+        "learned": false
+    },
+    {
+        "id": 747,
+        "word": "serious",
+        "translate": "ciddi",
+        "learned": false
+    },
+    {
+        "id": 748,
+        "word": "serve",
+        "translate": "servis",
+        "learned": false
+    },
+    {
+        "id": 749,
+        "word": "service",
+        "translate": "hizmet",
+        "learned": false
+    },
+    {
+        "id": 750,
+        "word": "set",
+        "translate": "Ayarlamak",
+        "learned": false
+    },
+    {
+        "id": 751,
+        "word": "seven",
+        "translate": "Yedi",
+        "learned": false
+    },
+    {
+        "id": 752,
+        "word": "several",
+        "translate": "birkaç",
+        "learned": false
+    },
+    {
+        "id": 753,
+        "word": "shake",
+        "translate": "sallamak",
+        "learned": false
+    },
+    {
+        "id": 754,
+        "word": "share",
+        "translate": "Paylaşmak",
+        "learned": false
+    },
+    {
+        "id": 755,
+        "word": "she",
+        "translate": "o",
+        "learned": false
+    },
+    {
+        "id": 756,
+        "word": "shoot",
+        "translate": "şut çekmek",
+        "learned": false
+    },
+    {
+        "id": 757,
+        "word": "short",
+        "translate": "kısa",
+        "learned": false
+    },
+    {
+        "id": 758,
+        "word": "shot",
+        "translate": "atış",
+        "learned": false
+    },
+    {
+        "id": 759,
+        "word": "should",
+        "translate": "meli",
+        "learned": false
+    },
+    {
+        "id": 760,
+        "word": "shoulder",
+        "translate": "omuz",
+        "learned": false
+    },
+    {
+        "id": 761,
+        "word": "show",
+        "translate": "göstermek",
+        "learned": false
+    },
+    {
+        "id": 762,
+        "word": "side",
+        "translate": "yan",
+        "learned": false
+    },
+    {
+        "id": 763,
+        "word": "sign",
+        "translate": "işaret",
+        "learned": false
+    },
+    {
+        "id": 764,
+        "word": "significant",
+        "translate": "önemli",
+        "learned": false
+    },
+    {
+        "id": 765,
+        "word": "similar",
+        "translate": "benzer",
+        "learned": false
+    },
+    {
+        "id": 766,
+        "word": "simple",
+        "translate": "basit",
+        "learned": false
+    },
+    {
+        "id": 767,
+        "word": "simply",
+        "translate": "Basitçe",
+        "learned": false
+    },
+    {
+        "id": 768,
+        "word": "since",
+        "translate": "dan beri",
+        "learned": false
+    },
+    {
+        "id": 769,
+        "word": "sing",
+        "translate": "şarkı söyle",
+        "learned": false
+    },
+    {
+        "id": 770,
+        "word": "single",
+        "translate": "tek",
+        "learned": false
+    },
+    {
+        "id": 771,
+        "word": "sister",
+        "translate": "kız kardeş",
+        "learned": false
+    },
+    {
+        "id": 772,
+        "word": "sit",
+        "translate": "Oturmak",
+        "learned": false
+    },
+    {
+        "id": 773,
+        "word": "site",
+        "translate": "yer",
+        "learned": false
+    },
+    {
+        "id": 774,
+        "word": "situation",
+        "translate": "durum",
+        "learned": false
+    },
+    {
+        "id": 775,
+        "word": "six",
+        "translate": "altı",
+        "learned": false
+    },
+    {
+        "id": 776,
+        "word": "size",
+        "translate": "boyut",
+        "learned": false
+    },
+    {
+        "id": 777,
+        "word": "skill",
+        "translate": "beceri",
+        "learned": false
+    },
+    {
+        "id": 778,
+        "word": "skin",
+        "translate": "Cilt",
+        "learned": false
+    },
+    {
+        "id": 779,
+        "word": "small",
+        "translate": "küçük",
+        "learned": false
+    },
+    {
+        "id": 780,
+        "word": "smile",
+        "translate": "gülümseme",
+        "learned": false
+    },
+    {
+        "id": 781,
+        "word": "so",
+        "translate": "yani",
+        "learned": false
+    },
+    {
+        "id": 782,
+        "word": "social",
+        "translate": "sosyal",
+        "learned": false
+    },
+    {
+        "id": 783,
+        "word": "society",
+        "translate": "toplum",
+        "learned": false
+    },
+    {
+        "id": 784,
+        "word": "soldier",
+        "translate": "asker",
+        "learned": false
+    },
+    {
+        "id": 785,
+        "word": "some",
+        "translate": "bazı",
+        "learned": false
+    },
+    {
+        "id": 786,
+        "word": "somebody",
+        "translate": "Birileri",
+        "learned": false
+    },
+    {
+        "id": 787,
+        "word": "someone",
+        "translate": "birisi",
+        "learned": false
+    },
+    {
+        "id": 788,
+        "word": "something",
+        "translate": "Bir şey",
+        "learned": false
+    },
+    {
+        "id": 789,
+        "word": "sometimes",
+        "translate": "ara sıra",
+        "learned": false
+    },
+    {
+        "id": 790,
+        "word": "son",
+        "translate": "oğul",
+        "learned": false
+    },
+    {
+        "id": 791,
+        "word": "song",
+        "translate": "şarkı",
+        "learned": false
+    },
+    {
+        "id": 792,
+        "word": "soon",
+        "translate": "yakında",
+        "learned": false
+    },
+    {
+        "id": 793,
+        "word": "sort",
+        "translate": "çeşit",
+        "learned": false
+    },
+    {
+        "id": 794,
+        "word": "sound",
+        "translate": "ses",
+        "learned": false
+    },
+    {
+        "id": 795,
+        "word": "source",
+        "translate": "kaynak",
+        "learned": false
+    },
+    {
+        "id": 796,
+        "word": "south",
+        "translate": "Güney",
+        "learned": false
+    },
+    {
+        "id": 797,
+        "word": "southern",
+        "translate": "güney",
+        "learned": false
+    },
+    {
+        "id": 798,
+        "word": "space",
+        "translate": "Boşluk",
+        "learned": false
+    },
+    {
+        "id": 799,
+        "word": "speak",
+        "translate": "Konuşmak",
+        "learned": false
+    },
+    {
+        "id": 800,
+        "word": "special",
+        "translate": "özel",
+        "learned": false
+    },
+    {
+        "id": 801,
+        "word": "specific",
+        "translate": "özel",
+        "learned": false
+    },
+    {
+        "id": 802,
+        "word": "speech",
+        "translate": "konuşma",
+        "learned": false
+    },
+    {
+        "id": 803,
+        "word": "spend",
+        "translate": "Harcamak",
+        "learned": false
+    },
+    {
+        "id": 804,
+        "word": "sport",
+        "translate": "spor",
+        "learned": false
+    },
+    {
+        "id": 805,
+        "word": "spring",
+        "translate": "Bahar",
+        "learned": false
+    },
+    {
+        "id": 806,
+        "word": "staff",
+        "translate": "personel",
+        "learned": false
+    },
+    {
+        "id": 807,
+        "word": "stage",
+        "translate": "Sahne",
+        "learned": false
+    },
+    {
+        "id": 808,
+        "word": "stand",
+        "translate": "Durmak",
+        "learned": false
+    },
+    {
+        "id": 809,
+        "word": "standard",
+        "translate": "standart",
+        "learned": false
+    },
+    {
+        "id": 810,
+        "word": "star",
+        "translate": "star",
+        "learned": false
+    },
+    {
+        "id": 811,
+        "word": "start",
+        "translate": "başlama",
+        "learned": false
+    },
+    {
+        "id": 812,
+        "word": "state",
+        "translate": "belirtmek",
+        "learned": false
+    },
+    {
+        "id": 813,
+        "word": "statement",
+        "translate": "Beyan",
+        "learned": false
+    },
+    {
+        "id": 814,
+        "word": "station",
+        "translate": "Istasyon",
+        "learned": false
+    },
+    {
+        "id": 815,
+        "word": "stay",
+        "translate": "kalmak",
+        "learned": false
+    },
+    {
+        "id": 816,
+        "word": "step",
+        "translate": "adım",
+        "learned": false
+    },
+    {
+        "id": 817,
+        "word": "still",
+        "translate": "Hala",
+        "learned": false
+    },
+    {
+        "id": 818,
+        "word": "stock",
+        "translate": "Stok",
+        "learned": false
+    },
+    {
+        "id": 819,
+        "word": "stop",
+        "translate": "Dur",
+        "learned": false
+    },
+    {
+        "id": 820,
+        "word": "store",
+        "translate": "Mağaza",
+        "learned": false
+    },
+    {
+        "id": 821,
+        "word": "story",
+        "translate": "Öykü",
+        "learned": false
+    },
+    {
+        "id": 822,
+        "word": "strategy",
+        "translate": "Strateji",
+        "learned": false
+    },
+    {
+        "id": 823,
+        "word": "street",
+        "translate": "sokak",
+        "learned": false
+    },
+    {
+        "id": 824,
+        "word": "strong",
+        "translate": "güçlü",
+        "learned": false
+    },
+    {
+        "id": 825,
+        "word": "structure",
+        "translate": "Yapı",
+        "learned": false
+    },
+    {
+        "id": 826,
+        "word": "student",
+        "translate": "Öğrenci",
+        "learned": false
+    },
+    {
+        "id": 827,
+        "word": "study",
+        "translate": "ders çalışma",
+        "learned": false
+    },
+    {
+        "id": 828,
+        "word": "stuff",
+        "translate": "şey",
+        "learned": false
+    },
+    {
+        "id": 829,
+        "word": "style",
+        "translate": "Stil",
+        "learned": false
+    },
+    {
+        "id": 830,
+        "word": "subject",
+        "translate": "Konu",
+        "learned": false
+    },
+    {
+        "id": 831,
+        "word": "success",
+        "translate": "Başarı",
+        "learned": false
+    },
+    {
+        "id": 832,
+        "word": "successful",
+        "translate": "başarılı",
+        "learned": false
+    },
+    {
+        "id": 833,
+        "word": "such",
+        "translate": "Böyle",
+        "learned": false
+    },
+    {
+        "id": 834,
+        "word": "suddenly",
+        "translate": "aniden",
+        "learned": false
+    },
+    {
+        "id": 835,
+        "word": "suffer",
+        "translate": "acı çekmek",
+        "learned": false
+    },
+    {
+        "id": 836,
+        "word": "suggest",
+        "translate": "önermek",
+        "learned": false
+    },
+    {
+        "id": 837,
+        "word": "summer",
+        "translate": "yaz",
+        "learned": false
+    },
+    {
+        "id": 838,
+        "word": "support",
+        "translate": "destek",
+        "learned": false
+    },
+    {
+        "id": 839,
+        "word": "sure",
+        "translate": "emin",
+        "learned": false
+    },
+    {
+        "id": 840,
+        "word": "surface",
+        "translate": "yüzey",
+        "learned": false
+    },
+    {
+        "id": 841,
+        "word": "system",
+        "translate": "Sistem",
+        "learned": false
+    },
+    {
+        "id": 842,
+        "word": "table",
+        "translate": "Tablo",
+        "learned": false
+    },
+    {
+        "id": 843,
+        "word": "take",
+        "translate": "Almak",
+        "learned": false
+    },
+    {
+        "id": 844,
+        "word": "talk",
+        "translate": "Konuşmak",
+        "learned": false
+    },
+    {
+        "id": 845,
+        "word": "task",
+        "translate": "görev",
+        "learned": false
+    },
+    {
+        "id": 846,
+        "word": "tax",
+        "translate": "vergi",
+        "learned": false
+    },
+    {
+        "id": 847,
+        "word": "teach",
+        "translate": "Öğretmek",
+        "learned": false
+    },
+    {
+        "id": 848,
+        "word": "teacher",
+        "translate": "öğretmen",
+        "learned": false
+    },
+    {
+        "id": 849,
+        "word": "team",
+        "translate": "takım",
+        "learned": false
+    },
+    {
+        "id": 850,
+        "word": "technology",
+        "translate": "Teknoloji",
+        "learned": false
+    },
+    {
+        "id": 851,
+        "word": "television",
+        "translate": "televizyon",
+        "learned": false
+    },
+    {
+        "id": 852,
+        "word": "tell",
+        "translate": "söylemek",
+        "learned": false
+    },
+    {
+        "id": 853,
+        "word": "ten",
+        "translate": "on",
+        "learned": false
+    },
+    {
+        "id": 854,
+        "word": "tend",
+        "translate": "Eğilmek",
+        "learned": false
+    },
+    {
+        "id": 855,
+        "word": "term",
+        "translate": "terim",
+        "learned": false
+    },
+    {
+        "id": 856,
+        "word": "test",
+        "translate": "test",
+        "learned": false
+    },
+    {
+        "id": 857,
+        "word": "thank",
+        "translate": "teşekkür",
+        "learned": false
+    },
+    {
+        "id": 858,
+        "word": "that",
+        "translate": "O",
+        "learned": false
+    },
+    {
+        "id": 859,
+        "word": "their",
+        "translate": "onların",
+        "learned": false
+    },
+    {
+        "id": 860,
+        "word": "them",
+        "translate": "Onları",
+        "learned": false
+    },
+    {
+        "id": 861,
+        "word": "themselves",
+        "translate": "kendilerini",
+        "learned": false
+    },
+    {
+        "id": 862,
+        "word": "then",
+        "translate": "sonra",
+        "learned": false
+    },
+    {
+        "id": 863,
+        "word": "theory",
+        "translate": "Teori",
+        "learned": false
+    },
+    {
+        "id": 864,
+        "word": "there",
+        "translate": "Orada",
+        "learned": false
+    },
+    {
+        "id": 865,
+        "word": "these",
+        "translate": "bunlar",
+        "learned": false
+    },
+    {
+        "id": 866,
+        "word": "they",
+        "translate": "onlar",
+        "learned": false
+    },
+    {
+        "id": 867,
+        "word": "thing",
+        "translate": "şey",
+        "learned": false
+    },
+    {
+        "id": 868,
+        "word": "think",
+        "translate": "Düşünmek",
+        "learned": false
+    },
+    {
+        "id": 869,
+        "word": "third",
+        "translate": "üçüncü",
+        "learned": false
+    },
+    {
+        "id": 870,
+        "word": "this",
+        "translate": "bu",
+        "learned": false
+    },
+    {
+        "id": 871,
+        "word": "those",
+        "translate": "Bunlar",
+        "learned": false
+    },
+    {
+        "id": 872,
+        "word": "though",
+        "translate": "Olsa da",
+        "learned": false
+    },
+    {
+        "id": 873,
+        "word": "thought",
+        "translate": "Düşündü",
+        "learned": false
+    },
+    {
+        "id": 874,
+        "word": "thousand",
+        "translate": "bin",
+        "learned": false
+    },
+    {
+        "id": 875,
+        "word": "threat",
+        "translate": "tehdit",
+        "learned": false
+    },
+    {
+        "id": 876,
+        "word": "three",
+        "translate": "üç",
+        "learned": false
+    },
+    {
+        "id": 877,
+        "word": "through",
+        "translate": "vasitasiyla",
+        "learned": false
+    },
+    {
+        "id": 878,
+        "word": "throughout",
+        "translate": "boyunca",
+        "learned": false
+    },
+    {
+        "id": 879,
+        "word": "throw",
+        "translate": "atmak",
+        "learned": false
+    },
+    {
+        "id": 880,
+        "word": "thus",
+        "translate": "Böylece",
+        "learned": false
+    },
+    {
+        "id": 881,
+        "word": "time",
+        "translate": "zaman",
+        "learned": false
+    },
+    {
+        "id": 882,
+        "word": "to",
+        "translate": "Için",
+        "learned": false
+    },
+    {
+        "id": 883,
+        "word": "today",
+        "translate": "bugün",
+        "learned": false
+    },
+    {
+        "id": 884,
+        "word": "together",
+        "translate": "birlikte",
+        "learned": false
+    },
+    {
+        "id": 885,
+        "word": "tonight",
+        "translate": "Bu gece",
+        "learned": false
+    },
+    {
+        "id": 886,
+        "word": "too",
+        "translate": "çok",
+        "learned": false
+    },
+    {
+        "id": 887,
+        "word": "top",
+        "translate": "üst",
+        "learned": false
+    },
+    {
+        "id": 888,
+        "word": "total",
+        "translate": "Genel Toplam",
+        "learned": false
+    },
+    {
+        "id": 889,
+        "word": "tough",
+        "translate": "Sert",
+        "learned": false
+    },
+    {
+        "id": 890,
+        "word": "toward",
+        "translate": "DOĞRU",
+        "learned": false
+    },
+    {
+        "id": 891,
+        "word": "town",
+        "translate": "Kasaba",
+        "learned": false
+    },
+    {
+        "id": 892,
+        "word": "trade",
+        "translate": "Ticaret",
+        "learned": false
+    },
+    {
+        "id": 893,
+        "word": "traditional",
+        "translate": "geleneksel",
+        "learned": false
+    },
+    {
+        "id": 894,
+        "word": "training",
+        "translate": "Eğitim",
+        "learned": false
+    },
+    {
+        "id": 895,
+        "word": "travel",
+        "translate": "seyahat",
+        "learned": false
+    },
+    {
+        "id": 896,
+        "word": "treat",
+        "translate": "tedavi etmek",
+        "learned": false
+    },
+    {
+        "id": 897,
+        "word": "treatment",
+        "translate": "Tedavi",
+        "learned": false
+    },
+    {
+        "id": 898,
+        "word": "tree",
+        "translate": "Ağaç",
+        "learned": false
+    },
+    {
+        "id": 899,
+        "word": "trial",
+        "translate": "Deneme",
+        "learned": false
+    },
+    {
+        "id": 900,
+        "word": "trip",
+        "translate": "Yolculuk",
+        "learned": false
+    },
+    {
+        "id": 901,
+        "word": "trouble",
+        "translate": "sorun",
+        "learned": false
+    },
+    {
+        "id": 902,
+        "word": "true",
+        "translate": "DOĞRU",
+        "learned": false
+    },
+    {
+        "id": 903,
+        "word": "truth",
+        "translate": "hakikat",
+        "learned": false
+    },
+    {
+        "id": 904,
+        "word": "try",
+        "translate": "Denemek",
+        "learned": false
+    },
+    {
+        "id": 905,
+        "word": "turn",
+        "translate": "Çevirmek",
+        "learned": false
+    },
+    {
+        "id": 906,
+        "word": "TV",
+        "translate": "televizyon",
+        "learned": false
+    },
+    {
+        "id": 907,
+        "word": "two",
+        "translate": "iki",
+        "learned": false
+    },
+    {
+        "id": 908,
+        "word": "type",
+        "translate": "Yazın",
+        "learned": false
+    },
+    {
+        "id": 909,
+        "word": "under",
+        "translate": "altında",
+        "learned": false
+    },
+    {
+        "id": 910,
+        "word": "understand",
+        "translate": "anlama",
+        "learned": false
+    },
+    {
+        "id": 911,
+        "word": "unit",
+        "translate": "Ünite",
+        "learned": false
+    },
+    {
+        "id": 912,
+        "word": "until",
+        "translate": "a kadar",
+        "learned": false
+    },
+    {
+        "id": 913,
+        "word": "up",
+        "translate": "Yukarı",
+        "learned": false
+    },
+    {
+        "id": 914,
+        "word": "upon",
+        "translate": "Üzerinde",
+        "learned": false
+    },
+    {
+        "id": 915,
+        "word": "us",
+        "translate": "bize",
+        "learned": false
+    },
+    {
+        "id": 916,
+        "word": "use",
+        "translate": "Kullanmak",
+        "learned": false
+    },
+    {
+        "id": 917,
+        "word": "usually",
+        "translate": "genellikle",
+        "learned": false
+    },
+    {
+        "id": 918,
+        "word": "value",
+        "translate": "Değer",
+        "learned": false
+    },
+    {
+        "id": 919,
+        "word": "various",
+        "translate": "çeşitli",
+        "learned": false
+    },
+    {
+        "id": 920,
+        "word": "very",
+        "translate": "çok",
+        "learned": false
+    },
+    {
+        "id": 921,
+        "word": "victim",
+        "translate": "Kurban",
+        "learned": false
+    },
+    {
+        "id": 922,
+        "word": "view",
+        "translate": "görünüm",
+        "learned": false
+    },
+    {
+        "id": 923,
+        "word": "violence",
+        "translate": "şiddet",
+        "learned": false
+    },
+    {
+        "id": 924,
+        "word": "visit",
+        "translate": "ziyaret etmek",
+        "learned": false
+    },
+    {
+        "id": 925,
+        "word": "voice",
+        "translate": "Ses",
+        "learned": false
+    },
+    {
+        "id": 926,
+        "word": "vote",
+        "translate": "oy",
+        "learned": false
+    },
+    {
+        "id": 927,
+        "word": "wait",
+        "translate": "beklemek",
+        "learned": false
+    },
+    {
+        "id": 928,
+        "word": "walk",
+        "translate": "Yürümek",
+        "learned": false
+    },
+    {
+        "id": 929,
+        "word": "wall",
+        "translate": "duvar",
+        "learned": false
+    },
+    {
+        "id": 930,
+        "word": "want",
+        "translate": "istemek",
+        "learned": false
+    },
+    {
+        "id": 931,
+        "word": "war",
+        "translate": "savaş",
+        "learned": false
+    },
+    {
+        "id": 932,
+        "word": "watch",
+        "translate": "izlemek",
+        "learned": false
+    },
+    {
+        "id": 933,
+        "word": "water",
+        "translate": "Su",
+        "learned": false
+    },
+    {
+        "id": 934,
+        "word": "way",
+        "translate": "Yol",
+        "learned": false
+    },
+    {
+        "id": 935,
+        "word": "we",
+        "translate": "Biz",
+        "learned": false
+    },
+    {
+        "id": 936,
+        "word": "weapon",
+        "translate": "Silah",
+        "learned": false
+    },
+    {
+        "id": 937,
+        "word": "wear",
+        "translate": "giyinmek",
+        "learned": false
+    },
+    {
+        "id": 938,
+        "word": "week",
+        "translate": "hafta",
+        "learned": false
+    },
+    {
+        "id": 939,
+        "word": "weight",
+        "translate": "ağırlık",
+        "learned": false
+    },
+    {
+        "id": 940,
+        "word": "well",
+        "translate": "iyi",
+        "learned": false
+    },
+    {
+        "id": 941,
+        "word": "west",
+        "translate": "batısında",
+        "learned": false
+    },
+    {
+        "id": 942,
+        "word": "western",
+        "translate": "Batıda",
+        "learned": false
+    },
+    {
+        "id": 943,
+        "word": "what",
+        "translate": "ne",
+        "learned": false
+    },
+    {
+        "id": 944,
+        "word": "whatever",
+        "translate": "her neyse",
+        "learned": false
+    },
+    {
+        "id": 945,
+        "word": "when",
+        "translate": "ne zaman",
+        "learned": false
+    },
+    {
+        "id": 946,
+        "word": "where",
+        "translate": "nerede",
+        "learned": false
+    },
+    {
+        "id": 947,
+        "word": "which",
+        "translate": "hangi",
+        "learned": false
+    },
+    {
+        "id": 948,
+        "word": "while",
+        "translate": "iken",
+        "learned": false
+    },
+    {
+        "id": 949,
+        "word": "white",
+        "translate": "beyaz",
+        "learned": false
+    },
+    {
+        "id": 950,
+        "word": "who",
+        "translate": "Kim",
+        "learned": false
+    },
+    {
+        "id": 951,
+        "word": "whom",
+        "translate": "kime",
+        "learned": false
+    },
+    {
+        "id": 952,
+        "word": "whose",
+        "translate": "kimin",
+        "learned": false
+    },
+    {
+        "id": 953,
+        "word": "why",
+        "translate": "Neden",
+        "learned": false
+    },
+    {
+        "id": 954,
+        "word": "wide",
+        "translate": "geniş",
+        "learned": false
+    },
+    {
+        "id": 955,
+        "word": "wife",
+        "translate": "kadın eş",
+        "learned": false
+    },
+    {
+        "id": 956,
+        "word": "win",
+        "translate": "Kazanmak",
+        "learned": false
+    },
+    {
+        "id": 957,
+        "word": "wind",
+        "translate": "Rüzgar",
+        "learned": false
+    },
+    {
+        "id": 958,
+        "word": "window",
+        "translate": "Pencere",
+        "learned": false
+    },
+    {
+        "id": 959,
+        "word": "wish",
+        "translate": "Dilek",
+        "learned": false
+    },
+    {
+        "id": 960,
+        "word": "with",
+        "translate": "ile",
+        "learned": false
+    },
+    {
+        "id": 961,
+        "word": "within",
+        "translate": "Içinde",
+        "learned": false
+    },
+    {
+        "id": 962,
+        "word": "without",
+        "translate": "Olmadan",
+        "learned": false
+    },
+    {
+        "id": 963,
+        "word": "woman",
+        "translate": "Kadın",
+        "learned": false
+    },
+    {
+        "id": 964,
+        "word": "wonder",
+        "translate": "merak etmek",
+        "learned": false
+    },
+    {
+        "id": 965,
+        "word": "word",
+        "translate": "Kelime",
+        "learned": false
+    },
+    {
+        "id": 966,
+        "word": "work",
+        "translate": "iş",
+        "learned": false
+    },
+    {
+        "id": 967,
+        "word": "worker",
+        "translate": "işçi",
+        "learned": false
+    },
+    {
+        "id": 968,
+        "word": "world",
+        "translate": "Dünya",
+        "learned": false
+    },
+    {
+        "id": 969,
+        "word": "worry",
+        "translate": "endişelenmek",
+        "learned": false
+    },
+    {
+        "id": 970,
+        "word": "would",
+        "translate": "Olur mu",
+        "learned": false
+    },
+    {
+        "id": 971,
+        "word": "write",
+        "translate": "yazmak",
+        "learned": false
+    },
+    {
+        "id": 972,
+        "word": "writer",
+        "translate": "yazar",
+        "learned": false
+    },
+    {
+        "id": 973,
+        "word": "wrong",
+        "translate": "yanlış",
+        "learned": false
+    },
+    {
+        "id": 974,
+        "word": "yard",
+        "translate": "avlu",
+        "learned": false
+    },
+    {
+        "id": 975,
+        "word": "yeah",
+        "translate": "Evet",
+        "learned": false
+    },
+    {
+        "id": 976,
+        "word": "year",
+        "translate": "yıl",
+        "learned": false
+    },
+    {
+        "id": 977,
+        "word": "yes",
+        "translate": "Evet",
+        "learned": false
+    },
+    {
+        "id": 978,
+        "word": "yet",
+        "translate": "Henüz",
+        "learned": false
+    },
+    {
+        "id": 979,
+        "word": "you",
+        "translate": "sen",
+        "learned": false
+    },
+    {
+        "id": 980,
+        "word": "young",
+        "translate": "genç",
+        "learned": false
+    },
+    {
+        "id": 981,
+        "word": "your",
+        "translate": "Senin",
+        "learned": false
+    },
+    {
+        "id": 982,
+        "word": "yourself",
+        "translate": "kendin",
+        "learned": false
+    }
+]
