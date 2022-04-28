@@ -8,7 +8,7 @@
 _______________________________________________________________________________________________________________________
 
 <p align="center">
-  <img src="https://github.com/batuhncbk/cinema_ticket_application/blob/main/film_ticket.PNG" alt="Github görselim"/>
+  <img src="https://github.com/batuhncbk/English_Practise_1000_Word/blob/main/english_practise.PNG" alt="Github görselim"/>
 </p>
 
 ## License
